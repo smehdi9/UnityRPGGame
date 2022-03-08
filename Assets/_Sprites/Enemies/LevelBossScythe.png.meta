@@ -1,0 +1,4964 @@
+fileFormatVersion: 2
+guid: 8f6757912723384459193f47b447864e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3065015738924208350
+    second: LevelBossScythe_0
+  - first:
+      213: -8592132908971147301
+    second: LevelBossScythe_1
+  - first:
+      213: -2642592875946087844
+    second: LevelBossScythe_2
+  - first:
+      213: 4989977675658727429
+    second: LevelBossScythe_3
+  - first:
+      213: 1101683383995417415
+    second: LevelBossScythe_4
+  - first:
+      213: 7250305444087071601
+    second: LevelBossScythe_5
+  - first:
+      213: 3604450589169465234
+    second: LevelBossScythe_6
+  - first:
+      213: 385292833868625283
+    second: LevelBossScythe_7
+  - first:
+      213: 9056946223111466811
+    second: LevelBossScythe_8
+  - first:
+      213: 1601492303030209351
+    second: LevelBossScythe_9
+  - first:
+      213: 840262364712524532
+    second: LevelBossScythe_10
+  - first:
+      213: 986710292897741725
+    second: LevelBossScythe_11
+  - first:
+      213: 7793890543213839024
+    second: LevelBossScythe_12
+  - first:
+      213: 1794442778355231384
+    second: LevelBossScythe_13
+  - first:
+      213: -1226769155056898466
+    second: LevelBossScythe_14
+  - first:
+      213: -3583687476078177264
+    second: LevelBossScythe_15
+  - first:
+      213: 6036956347557271319
+    second: LevelBossScythe_16
+  - first:
+      213: -6982495056354605122
+    second: LevelBossScythe_17
+  - first:
+      213: 1145248443207319914
+    second: LevelBossScythe_18
+  - first:
+      213: 3521909733503650980
+    second: LevelBossScythe_19
+  - first:
+      213: 1307552274128060956
+    second: LevelBossScythe_20
+  - first:
+      213: -8128604226901266825
+    second: LevelBossScythe_21
+  - first:
+      213: 1367658016440279105
+    second: LevelBossScythe_22
+  - first:
+      213: 2262681086178385461
+    second: LevelBossScythe_23
+  - first:
+      213: 482084774882902925
+    second: LevelBossScythe_24
+  - first:
+      213: 2118690226911731594
+    second: LevelBossScythe_25
+  - first:
+      213: 1626052671999460591
+    second: LevelBossScythe_26
+  - first:
+      213: -8624491160154886794
+    second: LevelBossScythe_27
+  - first:
+      213: -7676160271893974951
+    second: LevelBossScythe_28
+  - first:
+      213: 8430480010777307881
+    second: LevelBossScythe_29
+  - first:
+      213: -4587388375314978590
+    second: LevelBossScythe_30
+  - first:
+      213: -2019983034937946815
+    second: LevelBossScythe_31
+  - first:
+      213: 4317180324764829301
+    second: LevelBossScythe_32
+  - first:
+      213: 2824738023305462516
+    second: LevelBossScythe_33
+  - first:
+      213: 6362957999653023211
+    second: LevelBossScythe_34
+  - first:
+      213: 8452737565102887178
+    second: LevelBossScythe_35
+  - first:
+      213: 7829139884982296578
+    second: LevelBossScythe_36
+  - first:
+      213: 8541313383961075844
+    second: LevelBossScythe_37
+  - first:
+      213: -9217752840927394372
+    second: LevelBossScythe_38
+  - first:
+      213: -505814862959587805
+    second: LevelBossScythe_39
+  - first:
+      213: 6382552454620372590
+    second: LevelBossScythe_40
+  - first:
+      213: 4129774356248667035
+    second: LevelBossScythe_41
+  - first:
+      213: 4357672457364679651
+    second: LevelBossScythe_42
+  - first:
+      213: 3414104456552727931
+    second: LevelBossScythe_43
+  - first:
+      213: 418786299188525908
+    second: LevelBossScythe_44
+  - first:
+      213: 5363950550349266410
+    second: LevelBossScythe_45
+  - first:
+      213: -6729847846935331561
+    second: LevelBossScythe_46
+  - first:
+      213: -762447452205830330
+    second: LevelBossScythe_47
+  - first:
+      213: -3593345318579569741
+    second: LevelBossScythe_48
+  - first:
+      213: -7586921196930454862
+    second: LevelBossScythe_49
+  - first:
+      213: -849081181741875841
+    second: LevelBossScythe_50
+  - first:
+      213: 4205869140020950000
+    second: LevelBossScythe_51
+  - first:
+      213: 2918088476826095187
+    second: LevelBossScythe_52
+  - first:
+      213: 5681010355574723576
+    second: LevelBossScythe_53
+  - first:
+      213: -3861119061322711087
+    second: LevelBossScythe_54
+  - first:
+      213: -8232170682145589279
+    second: LevelBossScythe_55
+  - first:
+      213: -7069484297752818859
+    second: LevelBossScythe_56
+  - first:
+      213: -7863850313506766737
+    second: LevelBossScythe_57
+  - first:
+      213: -475143875836555428
+    second: LevelBossScythe_58
+  - first:
+      213: 605894366022537157
+    second: LevelBossScythe_59
+  - first:
+      213: 2001168278473509229
+    second: LevelBossScythe_60
+  - first:
+      213: 4313435882494955364
+    second: LevelBossScythe_61
+  - first:
+      213: -8283304696167248289
+    second: LevelBossScythe_62
+  - first:
+      213: 1675357257129543698
+    second: LevelBossScythe_63
+  - first:
+      213: -9198245479566468748
+    second: LevelBossScythe_64
+  - first:
+      213: -7011359148205906337
+    second: LevelBossScythe_65
+  - first:
+      213: -6840835494684737104
+    second: LevelBossScythe_66
+  - first:
+      213: 1644270195424647795
+    second: LevelBossScythe_67
+  - first:
+      213: 6699580814898727411
+    second: LevelBossScythe_68
+  - first:
+      213: -7579464456647696995
+    second: LevelBossScythe_69
+  - first:
+      213: 3206667801937332952
+    second: LevelBossScythe_70
+  - first:
+      213: -5595066333733387613
+    second: LevelBossScythe_71
+  - first:
+      213: -9074000690310723191
+    second: LevelBossScythe_72
+  - first:
+      213: 4545580185064279768
+    second: LevelBossScythe_73
+  - first:
+      213: -639968234132946648
+    second: LevelBossScythe_74
+  - first:
+      213: 6717819890274150530
+    second: LevelBossScythe_75
+  - first:
+      213: 3135803834393244429
+    second: LevelBossScythe_76
+  - first:
+      213: -5520047997977660718
+    second: LevelBossScythe_77
+  - first:
+      213: 967397365146111068
+    second: LevelBossScythe_78
+  - first:
+      213: -4170605388830869172
+    second: LevelBossScythe_79
+  - first:
+      213: -7577587210903205329
+    second: LevelBossScythe_80
+  - first:
+      213: 5493479760910404188
+    second: LevelBossScythe_81
+  - first:
+      213: 3362988687229533663
+    second: LevelBossScythe_82
+  - first:
+      213: -7545839477174095265
+    second: LevelBossScythe_83
+  - first:
+      213: -5698359775221290953
+    second: LevelBossScythe_84
+  - first:
+      213: -528434662771211415
+    second: LevelBossScythe_85
+  - first:
+      213: 8536572234085259588
+    second: LevelBossScythe_86
+  - first:
+      213: 2892963715525988172
+    second: LevelBossScythe_87
+  - first:
+      213: -7519240732317777975
+    second: LevelBossScythe_88
+  - first:
+      213: 6001650929595569553
+    second: LevelBossScythe_89
+  - first:
+      213: -3003990177017721450
+    second: LevelBossScythe_90
+  - first:
+      213: -8618176947515153045
+    second: LevelBossScythe_91
+  - first:
+      213: 1571146020552884021
+    second: LevelBossScythe_92
+  - first:
+      213: -3917541143539985898
+    second: LevelBossScythe_93
+  - first:
+      213: 8099920566099329971
+    second: LevelBossScythe_94
+  - first:
+      213: 7525793206481243369
+    second: LevelBossScythe_95
+  - first:
+      213: -70527325388691313
+    second: LevelBossScythe_96
+  - first:
+      213: -32006606319559877
+    second: LevelBossScythe_97
+  - first:
+      213: -1143041170364638920
+    second: LevelBossScythe_98
+  - first:
+      213: 887061962795020286
+    second: LevelBossScythe_99
+  - first:
+      213: -3579133584941221293
+    second: LevelBossScythe_100
+  - first:
+      213: -7684752688340028892
+    second: LevelBossScythe_101
+  - first:
+      213: -7633443965955490448
+    second: LevelBossScythe_102
+  - first:
+      213: 7052024937851368840
+    second: LevelBossScythe_103
+  - first:
+      213: -5831019589400998861
+    second: LevelBossScythe_104
+  - first:
+      213: 4503862872531715708
+    second: LevelBossScythe_105
+  - first:
+      213: -6396196584890157614
+    second: LevelBossScythe_106
+  - first:
+      213: -8823678988185862209
+    second: LevelBossScythe_107
+  - first:
+      213: 4433049396339564399
+    second: LevelBossScythe_108
+  - first:
+      213: 2153634167276208714
+    second: LevelBossScythe_109
+  - first:
+      213: -3924804093893742994
+    second: LevelBossScythe_110
+  - first:
+      213: 5582070393456105833
+    second: LevelBossScythe_111
+  - first:
+      213: -3211503612790684293
+    second: LevelBossScythe_112
+  - first:
+      213: 6265219773642814725
+    second: LevelBossScythe_113
+  - first:
+      213: 314196018738359846
+    second: LevelBossScythe_114
+  - first:
+      213: -2455348413830302470
+    second: LevelBossScythe_115
+  - first:
+      213: 1556375143104598691
+    second: LevelBossScythe_116
+  - first:
+      213: -1424447050318578063
+    second: LevelBossScythe_117
+  - first:
+      213: -8983913974126665198
+    second: LevelBossScythe_118
+  - first:
+      213: 7039405462365665173
+    second: LevelBossScythe_119
+  - first:
+      213: -5706671230419451903
+    second: LevelBossScythe_120
+  - first:
+      213: 4796288274650227227
+    second: LevelBossScythe_121
+  - first:
+      213: 2637459920604149325
+    second: LevelBossScythe_122
+  - first:
+      213: 7160851829527446227
+    second: LevelBossScythe_123
+  - first:
+      213: -2667140413806140909
+    second: LevelBossScythe_124
+  - first:
+      213: 3577590540507600168
+    second: LevelBossScythe_125
+  - first:
+      213: 1981640935024185024
+    second: LevelBossScythe_126
+  - first:
+      213: -7427436751084253583
+    second: LevelBossScythe_127
+  - first:
+      213: 7038252476492298004
+    second: LevelBossScythe_128
+  - first:
+      213: -4356909003442186060
+    second: LevelBossScythe_129
+  - first:
+      213: -326986666844610198
+    second: LevelBossScythe_130
+  - first:
+      213: -8015141294529453201
+    second: LevelBossScythe_131
+  - first:
+      213: -4067510331704510440
+    second: LevelBossScythe_132
+  - first:
+      213: -12888035577657449
+    second: LevelBossScythe_133
+  - first:
+      213: -3268396381752400022
+    second: LevelBossScythe_134
+  - first:
+      213: 9093383703097067259
+    second: LevelBossScythe_135
+  - first:
+      213: 8896800125151183711
+    second: LevelBossScythe_136
+  - first:
+      213: 2084888673995492270
+    second: LevelBossScythe_137
+  - first:
+      213: -528869739712019029
+    second: LevelBossScythe_138
+  - first:
+      213: -2600301695469146809
+    second: LevelBossScythe_139
+  - first:
+      213: -2905377838572699613
+    second: LevelBossScythe_140
+  - first:
+      213: -9110316888441857623
+    second: LevelBossScythe_141
+  - first:
+      213: -8950974554865262468
+    second: LevelBossScythe_142
+  - first:
+      213: -3168148322874697564
+    second: LevelBossScythe_143
+  - first:
+      213: -8231098234823513974
+    second: LevelBossScythe_144
+  - first:
+      213: -6415818788274749882
+    second: LevelBossScythe_145
+  - first:
+      213: 5729504942755471586
+    second: LevelBossScythe_146
+  - first:
+      213: -7924522479018039602
+    second: LevelBossScythe_147
+  - first:
+      213: 2579980552452655248
+    second: LevelBossScythe_148
+  - first:
+      213: 7319877587682880870
+    second: LevelBossScythe_149
+  - first:
+      213: -8950915539626624212
+    second: LevelBossScythe_150
+  - first:
+      213: 1066350802611324620
+    second: LevelBossScythe_151
+  - first:
+      213: -5856552176076404032
+    second: LevelBossScythe_152
+  - first:
+      213: -4228948846932086816
+    second: LevelBossScythe_153
+  - first:
+      213: 5979931003370914741
+    second: LevelBossScythe_154
+  - first:
+      213: -5038418127644946766
+    second: LevelBossScythe_155
+  - first:
+      213: 5256866970824455053
+    second: LevelBossScythe_156
+  - first:
+      213: -2615015491129492626
+    second: LevelBossScythe_157
+  - first:
+      213: -3262950348505094521
+    second: LevelBossScythe_158
+  - first:
+      213: 5781144630636107884
+    second: LevelBossScythe_159
+  - first:
+      213: -7074903172900460854
+    second: LevelBossScythe_160
+  - first:
+      213: -4121887227678224988
+    second: LevelBossScythe_161
+  - first:
+      213: 254073458228263668
+    second: LevelBossScythe_162
+  - first:
+      213: -1111189835098308850
+    second: LevelBossScythe_163
+  - first:
+      213: -4172882367277288810
+    second: LevelBossScythe_164
+  - first:
+      213: 13704463733493571
+    second: LevelBossScythe_165
+  - first:
+      213: -3643545948705519709
+    second: LevelBossScythe_166
+  - first:
+      213: -8496731952077975406
+    second: LevelBossScythe_167
+  - first:
+      213: 4224969776562355771
+    second: LevelBossScythe_168
+  - first:
+      213: -4385202692570084932
+    second: LevelBossScythe_169
+  - first:
+      213: 5526144934866274935
+    second: LevelBossScythe_170
+  - first:
+      213: 732521939288506636
+    second: LevelBossScythe_171
+  - first:
+      213: 9105019099582375058
+    second: LevelBossScythe_172
+  - first:
+      213: -337719334469785266
+    second: LevelBossScythe_173
+  - first:
+      213: 7987989888455394401
+    second: LevelBossScythe_174
+  - first:
+      213: -1491363457488936009
+    second: LevelBossScythe_175
+  - first:
+      213: -4700594963771415441
+    second: LevelBossScythe_176
+  - first:
+      213: -1301900977258458593
+    second: LevelBossScythe_177
+  - first:
+      213: 2630536308957060293
+    second: LevelBossScythe_178
+  - first:
+      213: -7246805872949135102
+    second: LevelBossScythe_179
+  - first:
+      213: -6118418616545867104
+    second: LevelBossScythe_180
+  - first:
+      213: 3145963567386454630
+    second: LevelBossScythe_181
+  - first:
+      213: 4822317186014986238
+    second: LevelBossScythe_182
+  - first:
+      213: 8148976965692839408
+    second: LevelBossScythe_183
+  - first:
+      213: -229418865950604249
+    second: LevelBossScythe_184
+  - first:
+      213: 9174130963641440267
+    second: LevelBossScythe_185
+  - first:
+      213: 7197500427503925382
+    second: LevelBossScythe_186
+  - first:
+      213: 2513312852680057021
+    second: LevelBossScythe_187
+  - first:
+      213: 1166418823141021052
+    second: LevelBossScythe_188
+  - first:
+      213: 4508962933178952152
+    second: LevelBossScythe_189
+  - first:
+      213: -7361617129657301824
+    second: LevelBossScythe_190
+  - first:
+      213: -4076682093328585103
+    second: LevelBossScythe_191
+  - first:
+      213: 4119469627087950797
+    second: LevelBossScythe_192
+  - first:
+      213: -1685320616329936075
+    second: LevelBossScythe_193
+  - first:
+      213: -7627166971980489270
+    second: LevelBossScythe_194
+  - first:
+      213: -8372801413281857769
+    second: LevelBossScythe_195
+  - first:
+      213: -3326494498641063929
+    second: LevelBossScythe_196
+  - first:
+      213: 3925414749117677260
+    second: LevelBossScythe_197
+  - first:
+      213: -4884857842400009576
+    second: LevelBossScythe_198
+  - first:
+      213: 5343701331292680577
+    second: LevelBossScythe_199
+  - first:
+      213: 1869445878913294986
+    second: LevelBossScythe_200
+  - first:
+      213: 8487722953266662413
+    second: LevelBossScythe_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelBossScythe_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2049
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed01f8d439f198a20800000000000000
+      internalID: 3065015738924208350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb4d174ac92c880800000000000000
+      internalID: -8592132908971147301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a6147c7cf935bd0800000000000000
+      internalID: -2642592875946087844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50094ca0246ff3540800000000000000
+      internalID: 4989977675658727429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434ff56337f94f00800000000000000
+      internalID: 1101683383995417415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17304eb33624e9460800000000000000
+      internalID: 7250305444087071601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b4e1b6b4950230800000000000000
+      internalID: 3604450589169465234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1985
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3853e318ac5d85500800000000000000
+      internalID: 385292833868625283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1985
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fef5aaa9cb0bd70800000000000000
+      internalID: 9056946223111466811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1985
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b43a8b3c4a93610800000000000000
+      internalID: 1601492303030209351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1985
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad1d63b2639ab00800000000000000
+      internalID: 840262364712524532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b346898cf71bd00800000000000000
+      internalID: 986710292897741725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2898eb726792c60800000000000000
+      internalID: 7793890543213839024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1985
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ae0a5133427e810800000000000000
+      internalID: 1794442778355231384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1921
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e6d6304f3a9fee0800000000000000
+      internalID: -1226769155056898466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014185a4a3f244ec0800000000000000
+      internalID: -3583687476078177264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d0bc10d397c350800000000000000
+      internalID: 6036956347557271319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70018bdb1391f90800000000000000
+      internalID: -6982495056354605122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6101fc246db4ef00800000000000000
+      internalID: 1145248443207319914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc9742e3650e030800000000000000
+      internalID: 3521909733503650980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1248a89ddb552210800000000000000
+      internalID: 1307552274128060956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1857
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eafc7d585613f80800000000000000
+      internalID: -8128604226901266825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1857
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140632448b5eaf210800000000000000
+      internalID: 1367658016440279105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1857
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e58ada578a66f10800000000000000
+      internalID: 2262681086178385461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1857
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83058e6c85b0b600800000000000000
+      internalID: 482084774882902925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5a2c3989176d10800000000000000
+      internalID: 2118690226911731594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe44a9c3a46e09610800000000000000
+      internalID: 1626052671999460591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da87efbf6af4880800000000000000
+      internalID: -8624491160154886794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1793
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9503bca17ecc87590800000000000000
+      internalID: -7676160271893974951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1791
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eaa96837e41ff470800000000000000
+      internalID: 8430480010777307881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1791
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e82892e3925650c0800000000000000
+      internalID: -4587388375314978590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d453ec12497f3e0800000000000000
+      internalID: -2019983034937946815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c9e8c1a4b9eb30800000000000000
+      internalID: 4317180324764829301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f249ae144c733720800000000000000
+      internalID: 2824738023305462516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6c0a9694cd4850800000000000000
+      internalID: 6362957999653023211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1791
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01de8be7082e4570800000000000000
+      internalID: 8452737565102887178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1729
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200663dae31b6ac60800000000000000
+      internalID: 7829139884982296578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4802a46d447d88670800000000000000
+      internalID: 8541313383961075844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5cc2101a6f31080800000000000000
+      internalID: -9217752840927394372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1729
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4e23ef0cfaf8f0800000000000000
+      internalID: -505814862959587805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed1f924a1639850800000000000000
+      internalID: 6382552454620372590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9328b285e7ef4930800000000000000
+      internalID: 4129774356248667035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba9b41300997c30800000000000000
+      internalID: 4357672457364679651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_43
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1729
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7547ee1ae5516f20800000000000000
+      internalID: 3414104456552727931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1665
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bbee79be3dfc500800000000000000
+      internalID: 418786299188525908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1666
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed345a2b94907a40800000000000000
+      internalID: 5363950550349266410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1666
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dfdfa1a07ca92a0800000000000000
+      internalID: -6729847846935331561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fae53f41e3b65f0800000000000000
+      internalID: -762447452205830330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1666
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb70ca987fd12ec0800000000000000
+      internalID: -3593345318579569741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1666
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba241e5e57d5b690800000000000000
+      internalID: -7586921196930454862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1666
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7ec0f9257734f0800000000000000
+      internalID: -849081181741875841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3f9bef2bf3e5a30800000000000000
+      internalID: 4205869140020950000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1601
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e416c42022f7820800000000000000
+      internalID: 2918088476826095187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1601
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3d851b1d007de40800000000000000
+      internalID: 5681010355574723576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1601
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfbe5abbac8a6ac0800000000000000
+      internalID: -3861119061322711087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1601
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7b358616471cd80800000000000000
+      internalID: -8232170682145589279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1601
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bcd37ac7524ed90800000000000000
+      internalID: -7069484297752818859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1601
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c598edcdfdd290800000000000000
+      internalID: -7863850313506766737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1601
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f4f8f8923f769f0800000000000000
+      internalID: -475143875836555428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1601
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0f2a37b1986800800000000000000
+      internalID: 605894366022537157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1538
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69813652f395cb10800000000000000
+      internalID: 2001168278473509229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1538
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0981e4176cdb30800000000000000
+      internalID: 4313435882494955364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1537
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e40a2044acb0d80800000000000000
+      internalID: -8283304696167248289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1536
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21844178c80104710800000000000000
+      internalID: 1675357257129543698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47919918874495080800000000000000
+      internalID: -9198245479566468748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1538
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f566082a006a2be90800000000000000
+      internalID: -7011359148205906337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1537
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ce64ac587011a0800000000000000
+      internalID: -6840835494684737104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a5c01f70f91d610800000000000000
+      internalID: 1644270195424647795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1537
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98f085141b9fc50800000000000000
+      internalID: 6699580814898727411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1473
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d90d10c3550d690800000000000000
+      internalID: -7579464456647696995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1473
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da482f406f508c20800000000000000
+      internalID: 3206667801937332952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_71
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1473
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2031b30d45a52b0800000000000000
+      internalID: -5595066333733387613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1474
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9894162c27ca21280800000000000000
+      internalID: -9074000690310723191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1473
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de8fc44815251f30800000000000000
+      internalID: 4545580185064279768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1473
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821c8f028406e17f0800000000000000
+      internalID: -639968234132946648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1473
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28828d0099d7a3d50800000000000000
+      internalID: 6717819890274150530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_76
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1473
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03315229fc948b20800000000000000
+      internalID: 3135803834393244429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_77
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1473
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27f61a799d463b0800000000000000
+      internalID: -5520047997977660718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1409
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cce2237c2ec6d00800000000000000
+      internalID: 967397365146111068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1409
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f764ee780f16c0800000000000000
+      internalID: -4170605388830869172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a4297549007d690800000000000000
+      internalID: -7577587210903205329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1408
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5accd1acb2cc3c40800000000000000
+      internalID: 5493479760910404188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd39f5a46cbbae20800000000000000
+      internalID: 3362988687229533663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1408
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523bee99fac74790800000000000000
+      internalID: -7545839477174095265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7386f83c9fb5be0b0800000000000000
+      internalID: -5698359775221290953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1408
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c486597f9aa8f0800000000000000
+      internalID: -528434662771211415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1408
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4495d1cd73ff77670800000000000000
+      internalID: 8536572234085259588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1345
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f4504fb2fd52820800000000000000
+      internalID: 2892963715525988172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1345
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cffc81846a46a790800000000000000
+      internalID: -7519240732317777975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1345
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195df6ce8b52a4350800000000000000
+      internalID: 6001650929595569553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1346
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d881e89deaf46d0800000000000000
+      internalID: -3003990177017721450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1345
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6526ef2ab5166880800000000000000
+      internalID: -8618176947515153045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1345
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fb25d3bf4ddc510800000000000000
+      internalID: 1571146020552884021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1345
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125252061912a9c0800000000000000
+      internalID: -3917541143539985898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1345
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34b33f6d2b86070800000000000000
+      internalID: 8099920566099329971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_95
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1345
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eccc554c0df07860800000000000000
+      internalID: 7525793206481243369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88af3f65cf650ff0800000000000000
+      internalID: -70527325388691313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1280
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b5bdf392a4e8ff0800000000000000
+      internalID: -32006606319559877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d4c49c1a1320f0800000000000000
+      internalID: -1143041170364638920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1280
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff6822c72a7f4c00800000000000000
+      internalID: 887061962795020286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a78e1b7fc545ec0800000000000000
+      internalID: -3579133584941221293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422b3c045264a5590800000000000000
+      internalID: -7684752688340028892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1216
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dbf5c182f801690800000000000000
+      internalID: -7633443965955490448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885b3d75153ddd160800000000000000
+      internalID: 7052024937851368840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1216
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc867d39e041fa0800000000000000
+      internalID: -5831019589400998861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1216
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c25a8b6fe08e30800000000000000
+      internalID: 4503862872531715708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d53e0438152c37a0800000000000000
+      internalID: -6396196584890157614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1216
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf7a19c5befb8580800000000000000
+      internalID: -8823678988185862209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f549c40fa558d30800000000000000
+      internalID: 4433049396339564399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1152
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4284ac5dde33ed10800000000000000
+      internalID: 2153634167276208714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1152
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee67a987b4889c0800000000000000
+      internalID: -3924804093893742994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1152
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9691d21a27f777d40800000000000000
+      internalID: 5582070393456105833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1152
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b754abcba727e63d0800000000000000
+      internalID: -3211503612790684293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1152
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505bbb7803882f650800000000000000
+      internalID: 6265219773642814725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1089
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eedb64d9f3c5400800000000000000
+      internalID: 314196018738359846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af473d960a9dcedd0800000000000000
+      internalID: -2455348413830302470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25ff552fa599510800000000000000
+      internalID: 1556375143104598691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e786c64f85b3ce0800000000000000
+      internalID: -1424447050318578063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212238fd6d9b25380800000000000000
+      internalID: -8983913974126665198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597ff3eb8fdf0b160800000000000000
+      internalID: 7039405462365665173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10048ec40c4ddc0b0800000000000000
+      internalID: -5706671230419451903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e5e226c6df8240800000000000000
+      internalID: 4796288274650227227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b0fce2d32a9420800000000000000
+      internalID: 2637459920604149325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1023
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d280349cc4706360800000000000000
+      internalID: 7160851829527446227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3122ffcbce96cfad0800000000000000
+      internalID: -2667140413806140909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825d0c644a726a130800000000000000
+      internalID: 3577590540507600168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4d746ee3308b10800000000000000
+      internalID: 1981640935024185024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1023
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e01fb80a17ce890800000000000000
+      internalID: -7427436751084253583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1023
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41736dc4655eca160800000000000000
+      internalID: 7038252476492298004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8902368562983c0800000000000000
+      internalID: -4356909003442186060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612074eb5f467bf0800000000000000
+      internalID: -326986666844610198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e10b657f74c090800000000000000
+      internalID: -8015141294529453201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818758667ec4d87c0800000000000000
+      internalID: -4067510331704510440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_133
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 961
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978a81666632dff0800000000000000
+      internalID: -12888035577657449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 961
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e978bec254a2d0800000000000000
+      internalID: -3268396381752400022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 961
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf64d659c40323e70800000000000000
+      internalID: 9093383703097067259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 961
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5389499398c77b70800000000000000
+      internalID: 8896800125151183711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_137
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 961
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8cb9e3330fec10800000000000000
+      internalID: 2084888673995492270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 961
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5030816c319a8f0800000000000000
+      internalID: -528869739712019029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 961
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d27bc826fd9ebd0800000000000000
+      internalID: -2600301695469146809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 961
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3200599cf360ea7d0800000000000000
+      internalID: -2905377838572699613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 961
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95e29fe07a19180800000000000000
+      internalID: -9110316888441857623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7022bf0110c7c380800000000000000
+      internalID: -8950974554865262468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8dd4bc2e97804d0800000000000000
+      internalID: -3168148322874697564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88eff104c345cd80800000000000000
+      internalID: -8231098234823513974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 961
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e3b95fdce66f6a0800000000000000
+      internalID: -6415818788274749882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 897
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0e8c3a36a438f40800000000000000
+      internalID: 5729504942755471586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 898
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6288f8ac0760290800000000000000
+      internalID: -7924522479018039602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984b54a4aeedc320800000000000000
+      internalID: 2579980552452655248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6e2532ed659560800000000000000
+      internalID: 7319877587682880870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf70e9db5f7c380800000000000000
+      internalID: -8950915539626624212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c99bb7607cce00800000000000000
+      internalID: 1066350802611324620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 897
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cacc6043d859bea0800000000000000
+      internalID: -5856552176076404032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa05dfd61cf45c0800000000000000
+      internalID: -4228948846932086816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c445809bfcf250800000000000000
+      internalID: 5979931003370914741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be85d75861f31ab0800000000000000
+      internalID: -5038418127644946766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b97b68a424f840800000000000000
+      internalID: 5256866970824455053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b3519044995bbd0800000000000000
+      internalID: -2615015491129492626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786ed9522fba7b2d0800000000000000
+      internalID: -3262950348505094521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_159
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 833
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d8386960ca3050800000000000000
+      internalID: 5781144630636107884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 833
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6ebf67c05e0dd90800000000000000
+      internalID: -7074903172900460854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0506b76d1cc6c0800000000000000
+      internalID: -4121887227678224988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fafc80d676a68300800000000000000
+      internalID: 254073458228263668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb0f87bb24490f0800000000000000
+      internalID: -1111189835098308850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 833
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69232f88891f616c0800000000000000
+      internalID: -4172882367277288810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 833
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0cac1320b03000800000000000000
+      internalID: 13704463733493571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7089493468f6dc0800000000000000
+      internalID: -3643545948705519709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2905ea4ae4b851a80800000000000000
+      internalID: -8496731952077975406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3eb2ce70ab12aa30800000000000000
+      internalID: 4224969776562355771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 833
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb906498261a423c0800000000000000
+      internalID: -4385202692570084932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_170
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 833
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a470c1a8fc0bc40800000000000000
+      internalID: 5526144934866274935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01c87d92d07a2a00800000000000000
+      internalID: 732521939288506636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 769
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29421cf61a68b5e70800000000000000
+      internalID: 9105019099582375058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a52bfd0e205bf0800000000000000
+      internalID: -337719334469785266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 767
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164cbca3b7a0bde60800000000000000
+      internalID: 7987989888455394401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3af5546dc9d4be0800000000000000
+      internalID: -1491363457488936009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_176
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 768
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f642a6709c124ceb0800000000000000
+      internalID: -4700594963771415441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1296cd75f7beede0800000000000000
+      internalID: -1301900977258458593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1728f5da818420800000000000000
+      internalID: 2630536308957060293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f6aa247c2e6b90800000000000000
+      internalID: -7246805872949135102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_180
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 640
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa85ad5fa2071ba0800000000000000
+      internalID: -6118418616545867104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_181
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 640
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ae36e4235b8ab20800000000000000
+      internalID: 3145963567386454630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_182
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 640
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3fa25eef4ce240800000000000000
+      internalID: 4822317186014986238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_183
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f556fa006bf61170800000000000000
+      internalID: 8148976965692839408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_184
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 449
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724cd36c1c0f0dcf0800000000000000
+      internalID: -229418865950604249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_185
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 449
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0892ca318f015f70800000000000000
+      internalID: 9174130963641440267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_186
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 449
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688f71c3188a2e360800000000000000
+      internalID: 7197500427503925382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_187
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 449
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db02b6139b411e220800000000000000
+      internalID: 2513312852680057021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_188
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 449
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7556ac5db3ff2010800000000000000
+      internalID: 1166418823141021052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_189
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 449
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9e881f5ed039e30800000000000000
+      internalID: 4508962933178952152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_190
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4885e593846d990800000000000000
+      internalID: -7361617129657301824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_191
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 257
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e24fc3c37bc67c0800000000000000
+      internalID: -4076682093328585103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_192
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc39699cccb4b2930800000000000000
+      internalID: 4119469627087950797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_193
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 252
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533030324d98c98e0800000000000000
+      internalID: -1685320616329936075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_194
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 257
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdd288ac0cd62690800000000000000
+      internalID: -7627166971980489270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_195
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 257
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f3272c975ddcb80800000000000000
+      internalID: -8372801413281857769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_196
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005535c0eae5d1d0800000000000000
+      internalID: -3326494498641063929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_197
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccefc35aaefd97630800000000000000
+      internalID: 3925414749117677260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_198
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89267756caf753cb0800000000000000
+      internalID: -4884857842400009576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_199
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 64
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1817b757c04a82a40800000000000000
+      internalID: 5343701331292680577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_200
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 64
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e1734f1b91f910800000000000000
+      internalID: 1869445878913294986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelBossScythe_201
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 64
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c836d5e037ac570800000000000000
+      internalID: 8487722953266662413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

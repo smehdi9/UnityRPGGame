@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mob
+  - Melee
+  - Throw
+  - AreaOfEffect
+  - LevelKey
+  - Item
+  - Portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 833679151
+    locked: 0
+  - name: GroundAssets
+    uniqueID: 1319199681
+    locked: 0
+  - name: AboveGround
+    uniqueID: 3352133185
+    locked: 0
+  - name: SecondFloor
+    uniqueID: 2224000469
+    locked: 0
+  - name: SecondFloorAssets
+    uniqueID: 878726985
+    locked: 0
+  - name: AboveSecondFloor
+    uniqueID: 2095975561
+    locked: 0

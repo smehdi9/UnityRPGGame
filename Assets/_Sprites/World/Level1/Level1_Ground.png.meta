@@ -1,0 +1,2615 @@
+fileFormatVersion: 2
+guid: a9406235e7f52384295b3593625fb6c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8519976832753758389
+    second: Level1_Ground_0
+  - first:
+      213: 6322432788415709775
+    second: Level1_Ground_1
+  - first:
+      213: 1525087980189016963
+    second: Level1_Ground_2
+  - first:
+      213: -6132089773458777249
+    second: Level1_Ground_3
+  - first:
+      213: -8458575654330960679
+    second: Level1_Ground_4
+  - first:
+      213: 221237954493687440
+    second: Level1_Ground_5
+  - first:
+      213: -6894940135492223858
+    second: Level1_Ground_6
+  - first:
+      213: -1661063150370882559
+    second: Level1_Ground_7
+  - first:
+      213: 8004383846911976118
+    second: Level1_Ground_8
+  - first:
+      213: 6022346148161400369
+    second: Level1_Ground_9
+  - first:
+      213: -561256331631141917
+    second: Level1_Ground_10
+  - first:
+      213: -1805370739759685995
+    second: Level1_Ground_11
+  - first:
+      213: -3587194544343828395
+    second: Level1_Ground_12
+  - first:
+      213: -216279797140726135
+    second: Level1_Ground_13
+  - first:
+      213: 7216193896311022120
+    second: Level1_Ground_14
+  - first:
+      213: -652430943805149551
+    second: Level1_Ground_15
+  - first:
+      213: -5531515629961009441
+    second: Level1_Ground_16
+  - first:
+      213: 8498914065785614629
+    second: Level1_Ground_17
+  - first:
+      213: -5573868265118059753
+    second: Level1_Ground_18
+  - first:
+      213: 7416293084748060717
+    second: Level1_Ground_19
+  - first:
+      213: 3458442670921445818
+    second: Level1_Ground_20
+  - first:
+      213: -2675098567598258801
+    second: Level1_Ground_21
+  - first:
+      213: 6840114572317878115
+    second: Level1_Ground_22
+  - first:
+      213: -6315988544971048775
+    second: Level1_Ground_23
+  - first:
+      213: 6772228353892469242
+    second: Level1_Ground_24
+  - first:
+      213: 3468626130065342493
+    second: Level1_Ground_25
+  - first:
+      213: -8991167884151260614
+    second: Level1_Ground_26
+  - first:
+      213: 6415041324539312448
+    second: Level1_Ground_27
+  - first:
+      213: 740592533328692719
+    second: Level1_Ground_28
+  - first:
+      213: 4071209889160072957
+    second: Level1_Ground_29
+  - first:
+      213: -1491660463389071338
+    second: Level1_Ground_30
+  - first:
+      213: -6413968027643384121
+    second: Level1_Ground_31
+  - first:
+      213: 8542340121621666633
+    second: Level1_Ground_32
+  - first:
+      213: 9184218720370024606
+    second: Level1_Ground_33
+  - first:
+      213: -9164554750355224012
+    second: Level1_Ground_34
+  - first:
+      213: 9111295622522625261
+    second: Level1_Ground_35
+  - first:
+      213: 3812884212912464391
+    second: Level1_Ground_36
+  - first:
+      213: 1114400872463030570
+    second: Level1_Ground_37
+  - first:
+      213: -7022068568776499721
+    second: Level1_Ground_38
+  - first:
+      213: -6676236771072212025
+    second: Level1_Ground_39
+  - first:
+      213: -2237834260701348773
+    second: Level1_Ground_40
+  - first:
+      213: -7949527708329975534
+    second: Level1_Ground_41
+  - first:
+      213: 7978572866413377464
+    second: Level1_Ground_42
+  - first:
+      213: 5743286915823662554
+    second: Level1_Ground_43
+  - first:
+      213: -932074885410246985
+    second: Level1_Ground_44
+  - first:
+      213: -2259318994428071708
+    second: Level1_Ground_45
+  - first:
+      213: -3015469088218767897
+    second: Level1_Ground_46
+  - first:
+      213: -7946426261720055179
+    second: Level1_Ground_47
+  - first:
+      213: 1322590335393894843
+    second: Level1_Ground_48
+  - first:
+      213: 2649169218360693655
+    second: Level1_Ground_49
+  - first:
+      213: 1991487034292238759
+    second: Level1_Ground_50
+  - first:
+      213: 7227149027066319184
+    second: Level1_Ground_51
+  - first:
+      213: -7084128164221028761
+    second: Level1_Ground_52
+  - first:
+      213: 8713222105205103248
+    second: Level1_Ground_53
+  - first:
+      213: -3965404787949421591
+    second: Level1_Ground_54
+  - first:
+      213: -2729758683225813857
+    second: Level1_Ground_55
+  - first:
+      213: 9063619622721811695
+    second: Level1_Ground_56
+  - first:
+      213: 5845530991378414588
+    second: Level1_Ground_57
+  - first:
+      213: -306758372133643910
+    second: Level1_Ground_58
+  - first:
+      213: 8985031579852384339
+    second: Level1_Ground_59
+  - first:
+      213: 5456241723659250549
+    second: Level1_Ground_60
+  - first:
+      213: -4805595486037078138
+    second: Level1_Ground_61
+  - first:
+      213: 5832678286215832840
+    second: Level1_Ground_62
+  - first:
+      213: -5173853654006993678
+    second: Level1_Ground_63
+  - first:
+      213: -3195145142524882118
+    second: Level1_Ground_64
+  - first:
+      213: -1368648752332366793
+    second: Level1_Ground_65
+  - first:
+      213: -6948071738043390570
+    second: Level1_Ground_66
+  - first:
+      213: -8375737840864987136
+    second: Level1_Ground_67
+  - first:
+      213: 3021507582462082052
+    second: Level1_Ground_68
+  - first:
+      213: 6589315862518397633
+    second: Level1_Ground_69
+  - first:
+      213: -2633741441035487333
+    second: Level1_Ground_70
+  - first:
+      213: -4251518267136313004
+    second: Level1_Ground_71
+  - first:
+      213: 2555922375749682143
+    second: Level1_Ground_72
+  - first:
+      213: 1495234683606852532
+    second: Level1_Ground_73
+  - first:
+      213: -2017416358648095583
+    second: Level1_Ground_74
+  - first:
+      213: -4135706575772288363
+    second: Level1_Ground_75
+  - first:
+      213: 146088930109004520
+    second: Level1_Ground_76
+  - first:
+      213: 4294251030675737391
+    second: Level1_Ground_77
+  - first:
+      213: -6920954557510441895
+    second: Level1_Ground_78
+  - first:
+      213: 3497775450483884725
+    second: Level1_Ground_79
+  - first:
+      213: -5036523846618084878
+    second: Level1_Ground_80
+  - first:
+      213: -2240513169462104341
+    second: Level1_Ground_81
+  - first:
+      213: -4870821109499106279
+    second: Level1_Ground_82
+  - first:
+      213: -369699803804045618
+    second: Level1_Ground_83
+  - first:
+      213: -6204466733761991659
+    second: Level1_Ground_84
+  - first:
+      213: 3920040631537007396
+    second: Level1_Ground_85
+  - first:
+      213: -7383262541324215483
+    second: Level1_Ground_86
+  - first:
+      213: -8952296644613324541
+    second: Level1_Ground_87
+  - first:
+      213: 7180337025615655368
+    second: Level1_Ground_88
+  - first:
+      213: 6759713885665454006
+    second: Level1_Ground_89
+  - first:
+      213: 3353941452530273764
+    second: Level1_Ground_90
+  - first:
+      213: -6119388128097340922
+    second: Level1_Ground_91
+  - first:
+      213: 2289766330787955712
+    second: Level1_Ground_92
+  - first:
+      213: -8847440415307249770
+    second: Level1_Ground_93
+  - first:
+      213: 1609810619496701064
+    second: Level1_Ground_94
+  - first:
+      213: 1962803286664112239
+    second: Level1_Ground_95
+  - first:
+      213: -2361141649006471287
+    second: Level1_Ground_96
+  - first:
+      213: 8618946661368101549
+    second: Level1_Ground_97
+  - first:
+      213: 3977139928774552172
+    second: Level1_Ground_98
+  - first:
+      213: -4226879712285989452
+    second: Level1_Ground_99
+  - first:
+      213: 3188855209875002453
+    second: Level1_Ground_100
+  - first:
+      213: -5603280570437188498
+    second: Level1_Ground_101
+  - first:
+      213: 6336757591788836412
+    second: Level1_Ground_102
+  - first:
+      213: 8753888325279375877
+    second: Level1_Ground_103
+  - first:
+      213: 1277385230769657677
+    second: Level1_Ground_104
+  - first:
+      213: 378901522088285262
+    second: Level1_Ground_105
+  - first:
+      213: -6354033010480617248
+    second: Level1_Ground_106
+  - first:
+      213: 1704055738116378011
+    second: Level1_Ground_107
+  - first:
+      213: 2539039638528879031
+    second: Level1_Ground_108
+  - first:
+      213: -1544923656481829715
+    second: Level1_Ground_109
+  - first:
+      213: -5660256285074283948
+    second: Level1_Ground_110
+  - first:
+      213: -427167256388767050
+    second: Level1_Ground_111
+  - first:
+      213: -5493027285284725069
+    second: Level1_Ground_112
+  - first:
+      213: -6367531262307790982
+    second: Level1_Ground_113
+  - first:
+      213: -5950586162818079639
+    second: Level1_Ground_114
+  - first:
+      213: 5633846349033488909
+    second: Level1_Ground_115
+  - first:
+      213: -5131918694198332765
+    second: Level1_Ground_116
+  - first:
+      213: 7015016749291454080
+    second: Level1_Ground_117
+  - first:
+      213: -4743730102721464339
+    second: Level1_Ground_118
+  - first:
+      213: 6942413332223986565
+    second: Level1_Ground_119
+  - first:
+      213: -6849136150733053967
+    second: Level1_Ground_120
+  - first:
+      213: 3198827500102601953
+    second: Level1_Ground_121
+  - first:
+      213: -5741622264794244561
+    second: Level1_Ground_122
+  - first:
+      213: -6203142272117786348
+    second: Level1_Ground_123
+  - first:
+      213: -8422012018898177988
+    second: Level1_Ground_124
+  - first:
+      213: -1242504249386953956
+    second: Level1_Ground_125
+  - first:
+      213: 5939423858938548777
+    second: Level1_Ground_126
+  - first:
+      213: 1636352410022981851
+    second: Level1_Ground_127
+  - first:
+      213: 5512106926805971044
+    second: Level1_Ground_128
+  - first:
+      213: -916909450053536704
+    second: Level1_Ground_129
+  - first:
+      213: 2082707004303192069
+    second: Level1_Ground_130
+  - first:
+      213: -3827824699467793447
+    second: Level1_Ground_131
+  - first:
+      213: -3187486289366197755
+    second: Level1_Ground_132
+  - first:
+      213: 8019626124414699735
+    second: Level1_Ground_133
+  - first:
+      213: -126139833215131423
+    second: Level1_Ground_134
+  - first:
+      213: -5511718565113113012
+    second: Level1_Ground_135
+  - first:
+      213: 3658959660858994199
+    second: Level1_Ground_136
+  - first:
+      213: 1903819021112554759
+    second: Level1_Ground_137
+  - first:
+      213: 7854574319510796293
+    second: Level1_Ground_138
+  - first:
+      213: 6671209861500978503
+    second: Level1_Ground_139
+  - first:
+      213: -5061933822505284263
+    second: Level1_Ground_140
+  - first:
+      213: 4624813002361441305
+    second: Level1_Ground_141
+  - first:
+      213: 6062787991560069461
+    second: Level1_Ground_142
+  - first:
+      213: -4128295036526900969
+    second: Level1_Ground_143
+  - first:
+      213: -4651279320608828079
+    second: Level1_Ground_144
+  - first:
+      213: -8528976195034853205
+    second: Level1_Ground_145
+  - first:
+      213: 8119279365933219899
+    second: Level1_Ground_146
+  - first:
+      213: 4317941460770395226
+    second: Level1_Ground_147
+  - first:
+      213: -328101675953146933
+    second: Level1_Ground_148
+  - first:
+      213: 4593040013248937724
+    second: Level1_Ground_149
+  - first:
+      213: -3203706054763090228
+    second: Level1_Ground_150
+  - first:
+      213: 2450893349879851441
+    second: Level1_Ground_151
+  - first:
+      213: 7896363384633143724
+    second: Level1_Ground_152
+  - first:
+      213: -3248716451489041022
+    second: Level1_Ground_153
+  - first:
+      213: 7084306689595539405
+    second: Level1_Ground_154
+  - first:
+      213: -5251116627516637243
+    second: Level1_Ground_155
+  - first:
+      213: -3492066126294986677
+    second: Level1_Ground_156
+  - first:
+      213: -7304689541375465675
+    second: Level1_Ground_157
+  - first:
+      213: -5896341157728871597
+    second: Level1_Ground_158
+  - first:
+      213: 1843891997265943313
+    second: Level1_Ground_159
+  - first:
+      213: 8845002601962297149
+    second: Level1_Ground_160
+  - first:
+      213: -8689497018991757121
+    second: Level1_Ground_161
+  - first:
+      213: -7114944074214178809
+    second: Level1_Ground_162
+  - first:
+      213: -6323249920544897023
+    second: Level1_Ground_163
+  - first:
+      213: 3327509576597974091
+    second: Level1_Ground_164
+  - first:
+      213: -1639504439851683347
+    second: Level1_Ground_165
+  - first:
+      213: 2865797234064704759
+    second: Level1_Ground_166
+  - first:
+      213: -2954632071394429310
+    second: Level1_Ground_167
+  - first:
+      213: -3341246634503354744
+    second: Level1_Ground_168
+  - first:
+      213: 1085574202126294996
+    second: Level1_Ground_169
+  - first:
+      213: -2252308389140581237
+    second: Level1_Ground_170
+  - first:
+      213: -8358257460402620488
+    second: Level1_Ground_171
+  - first:
+      213: 3009199571170980485
+    second: Level1_Ground_172
+  - first:
+      213: 5157386189424881319
+    second: Level1_Ground_173
+  - first:
+      213: 6954720413182573374
+    second: Level1_Ground_174
+  - first:
+      213: -6063689390381450169
+    second: Level1_Ground_175
+  - first:
+      213: -5482588823919022559
+    second: Level1_Ground_176
+  - first:
+      213: 5126736478753786457
+    second: Level1_Ground_177
+  - first:
+      213: -7457210428257749977
+    second: Level1_Ground_178
+  - first:
+      213: 2485959460383065313
+    second: Level1_Ground_179
+  - first:
+      213: 2767158012227683025
+    second: Level1_Ground_180
+  - first:
+      213: 5031447844448229979
+    second: Level1_Ground_181
+  - first:
+      213: 6686636743471809467
+    second: Level1_Ground_182
+  - first:
+      213: -9047086106135698126
+    second: Level1_Ground_183
+  - first:
+      213: -6718333368214333479
+    second: Level1_Ground_184
+  - first:
+      213: 2190365086004322175
+    second: Level1_Ground_185
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level1_Ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b078d2e9c90d3670800000000000000
+      internalID: 8519976832753758389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f420dc59f1bcdb750800000000000000
+      internalID: 6322432788415709775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383626e00733a2510800000000000000
+      internalID: 1525087980189016963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b1f2a17d076eaa0800000000000000
+      internalID: -6132089773458777249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f5d1024a1d9a80800000000000000
+      internalID: -8458575654330960679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0962e685fbef11300800000000000000
+      internalID: 221237954493687440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf66c4a704050a0800000000000000
+      internalID: -6894940135492223858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf6ac8dd7b2f8e0800000000000000
+      internalID: -1661063150370882559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2201123b8451f60800000000000000
+      internalID: 8004383846911976118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e2a9bf9eba39350800000000000000
+      internalID: 6022346148161400369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebdf2d07540638f0800000000000000
+      internalID: -561256331631141917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_11
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e5db0a0e802f6e0800000000000000
+      internalID: -1805370739759685995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558ba245199b73ec0800000000000000
+      internalID: -3587194544343828395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e555f9bae9ffcf0800000000000000
+      internalID: -216279797140726135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822e5fb9d12152460800000000000000
+      internalID: 7216193896311022120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e650a638912f6f0800000000000000
+      internalID: -652430943805149551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd627ae77db1c33b0800000000000000
+      internalID: -5531515629961009441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f8bb405532f570800000000000000
+      internalID: 8498914065785614629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b0d03854a5a2b0800000000000000
+      internalID: -5573868265118059753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2818927447fbe660800000000000000
+      internalID: 7416293084748060717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1735c194bdeff20800000000000000
+      internalID: 3458442670921445818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85462ba60420ead0800000000000000
+      internalID: -2675098567598258801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367eaf986f7fcee50800000000000000
+      internalID: 6840114572317878115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b87093c1e91958a0800000000000000
+      internalID: -6315988544971048775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c69b9ec9cbfd50800000000000000
+      internalID: 6772228353892469242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ce257619032030800000000000000
+      internalID: 3468626130065342493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a73455274f83380800000000000000
+      internalID: -8991167884151260614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049fd98a81ec60950800000000000000
+      internalID: 6415041324539312448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe50d583cfc174a00800000000000000
+      internalID: 740592533328692719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8171f2d7df7830800000000000000
+      internalID: 4071209889160072957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618233236be8c4be0800000000000000
+      internalID: -1491660463389071338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce6a9fbf020df6a0800000000000000
+      internalID: -6413968027643384121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b93d3d41d7c8670800000000000000
+      internalID: 8542340121621666633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90e52f1446e47f70800000000000000
+      internalID: 9184218720370024606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a457ca206f0d080800000000000000
+      internalID: -9164554750355224012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec58005813d17e70800000000000000
+      internalID: 9111295622522625261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_36
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a7587df51ae430800000000000000
+      internalID: 3812884212912464391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295b8c60b5277f00800000000000000
+      internalID: 1114400872463030570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd14a957d99c8e90800000000000000
+      internalID: -7022068568776499721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c307d7670e3953a0800000000000000
+      internalID: -6676236771072212025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c72b0b89d91f0e0800000000000000
+      internalID: -2237834260701348773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211eddceaaa9da190800000000000000
+      internalID: -7949527708329975534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7b32defb599be60800000000000000
+      internalID: 7978572866413377464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad571dc450144bf40800000000000000
+      internalID: 5743286915823662554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2f0f74da9013f0800000000000000
+      internalID: -932074885410246985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e072de485945a0e0800000000000000
+      internalID: -2259318994428071708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed9c8547d6e626d0800000000000000
+      internalID: -3015469088218767897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572475cba6f98b190800000000000000
+      internalID: -7946426261720055179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1948417e8ca5210800000000000000
+      internalID: 1322590335393894843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793d9424e5db3c420800000000000000
+      internalID: 2649169218360693655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f8c508ee23ab10800000000000000
+      internalID: 1991487034292238759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0511911cfbdfb4460800000000000000
+      internalID: 7227149027066319184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f34cc7fe10bd90800000000000000
+      internalID: -7084128164221028761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ad4dd07559be870800000000000000
+      internalID: 8713222105205103248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb34afda5d08f8c0800000000000000
+      internalID: -3965404787949421591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c89c3c0f2fd1ad0800000000000000
+      internalID: -2729758683225813857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f797960278cd70800000000000000
+      internalID: 9063619622721811695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb5a8377f7f1150800000000000000
+      internalID: 5845530991378414588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79d815c2ec2ebbf0800000000000000
+      internalID: -306758372133643910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a4ccfd9e31bc70800000000000000
+      internalID: 8985031579852384339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bef5370f678bb40800000000000000
+      internalID: 5456241723659250549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed468b2bf79b8e20800000000000000
+      internalID: 3353941452530273764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f30e5be0931ba0800000000000000
+      internalID: -6119388128097340922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004044d9852e6cf10800000000000000
+      internalID: 2289766330787955712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974d2a61d3973580800000000000000
+      internalID: -8847440415307249770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c90c2ba32375610800000000000000
+      internalID: 1609810619496701064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68659990374d3b10800000000000000
+      internalID: 1962803286664112239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987d69a1e2a8b3fd0800000000000000
+      internalID: -2361141649006471287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_97
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa72e8c256ac9770800000000000000
+      internalID: 8618946661368101549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a21a481b3a13730800000000000000
+      internalID: 3977139928774552172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b563e0fb4b1755c0800000000000000
+      internalID: -4226879712285989452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_100
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d0c80be6114c20800000000000000
+      internalID: 3188855209875002453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_101
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644e3632062d32b0800000000000000
+      internalID: -5603280570437188498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365556c47fa0f750800000000000000
+      internalID: 6336757591788836412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_103
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50267bf3d0f0c7970800000000000000
+      internalID: 8753888325279375877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_104
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d471b59791f2ab110800000000000000
+      internalID: 1277385230769657677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e445de44de0224500800000000000000
+      internalID: 378901522088285262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b8507abd010d60800000000000000
+      internalID: 7854574319510796293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74549d00606e49c50800000000000000
+      internalID: 6671209861500978503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d8909f10660c9b0800000000000000
+      internalID: -5061933822505284263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c8c5e1ce2ae2040800000000000000
+      internalID: 4624813002361441305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55121796e89532450800000000000000
+      internalID: 6062787991560069461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194ec3798955b6c0800000000000000
+      internalID: -4128295036526900969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559df7f916537fb0800000000000000
+      internalID: -4651279320608828079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_145
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba05f2dc65df2a980800000000000000
+      internalID: -8528976195034853205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_146
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30cb96c0997da070800000000000000
+      internalID: 8119279365933219899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_147
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54962291e86ceb30800000000000000
+      internalID: 4317941460770395226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_148
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc33a9a9349527bf0800000000000000
+      internalID: -328101675953146933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_149
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfebbdc9e81cdbf30800000000000000
+      internalID: 4593040013248937724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccee31131562a83d0800000000000000
+      internalID: -3203706054763090228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_151
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9a4fd2482530220800000000000000
+      internalID: 2450893349879851441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_152
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1b57e59a4859d60800000000000000
+      internalID: 7896363384633143724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Ground_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285370d899d3ae2d0800000000000000
+      internalID: -3248716451489041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

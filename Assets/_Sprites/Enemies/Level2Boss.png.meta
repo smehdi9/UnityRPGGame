@@ -1,0 +1,4952 @@
+fileFormatVersion: 2
+guid: d23c5579d3e33ac44a3af516915f22f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 497517905424772178
+    second: Level2Boss_0
+  - first:
+      213: 7371861717087465804
+    second: Level2Boss_1
+  - first:
+      213: 7976428378499169762
+    second: Level2Boss_2
+  - first:
+      213: 5251911618785134896
+    second: Level2Boss_3
+  - first:
+      213: -8789453461706770821
+    second: Level2Boss_4
+  - first:
+      213: -1260601987919357291
+    second: Level2Boss_5
+  - first:
+      213: -9178437929817930543
+    second: Level2Boss_6
+  - first:
+      213: -5986333774552429249
+    second: Level2Boss_7
+  - first:
+      213: 2259846609407859219
+    second: Level2Boss_8
+  - first:
+      213: 3842245247766223012
+    second: Level2Boss_9
+  - first:
+      213: -1528779938272892071
+    second: Level2Boss_10
+  - first:
+      213: 2628887563745505816
+    second: Level2Boss_11
+  - first:
+      213: -5282527642467800418
+    second: Level2Boss_12
+  - first:
+      213: -3923303645401266913
+    second: Level2Boss_13
+  - first:
+      213: 7860543716477235132
+    second: Level2Boss_14
+  - first:
+      213: -4675396950037178501
+    second: Level2Boss_15
+  - first:
+      213: 1008667581423500878
+    second: Level2Boss_16
+  - first:
+      213: -2821576449300536809
+    second: Level2Boss_17
+  - first:
+      213: -3867596931383037559
+    second: Level2Boss_18
+  - first:
+      213: -4656395602112785962
+    second: Level2Boss_19
+  - first:
+      213: 4857225016912013786
+    second: Level2Boss_20
+  - first:
+      213: 6781291753998259599
+    second: Level2Boss_21
+  - first:
+      213: -1109141649022483995
+    second: Level2Boss_22
+  - first:
+      213: -6759582027163364557
+    second: Level2Boss_23
+  - first:
+      213: 8226211028971274037
+    second: Level2Boss_24
+  - first:
+      213: 5458494033977440306
+    second: Level2Boss_25
+  - first:
+      213: -7598231870450683812
+    second: Level2Boss_26
+  - first:
+      213: 3773755658916546039
+    second: Level2Boss_27
+  - first:
+      213: 3957671497946610005
+    second: Level2Boss_28
+  - first:
+      213: 8592229797937622928
+    second: Level2Boss_29
+  - first:
+      213: 7254648217547768550
+    second: Level2Boss_30
+  - first:
+      213: 8831691115221639220
+    second: Level2Boss_31
+  - first:
+      213: -8297104654026150809
+    second: Level2Boss_32
+  - first:
+      213: -864498317235951999
+    second: Level2Boss_33
+  - first:
+      213: -3499164579729731684
+    second: Level2Boss_34
+  - first:
+      213: 7397667420607397418
+    second: Level2Boss_35
+  - first:
+      213: 6232868174235458394
+    second: Level2Boss_36
+  - first:
+      213: 2391800263861871356
+    second: Level2Boss_37
+  - first:
+      213: -3442785495339445493
+    second: Level2Boss_38
+  - first:
+      213: 7878058899564927013
+    second: Level2Boss_39
+  - first:
+      213: 951779112980972915
+    second: Level2Boss_40
+  - first:
+      213: 6555213379366737003
+    second: Level2Boss_41
+  - first:
+      213: 3952834448374525446
+    second: Level2Boss_42
+  - first:
+      213: 5880933499434721191
+    second: Level2Boss_43
+  - first:
+      213: -3626281219868652360
+    second: Level2Boss_44
+  - first:
+      213: -4329940905788830532
+    second: Level2Boss_45
+  - first:
+      213: -1577013762939286703
+    second: Level2Boss_46
+  - first:
+      213: -5521848108606319513
+    second: Level2Boss_47
+  - first:
+      213: -394654434484937904
+    second: Level2Boss_48
+  - first:
+      213: -1718110408755873652
+    second: Level2Boss_49
+  - first:
+      213: 7009301699922256738
+    second: Level2Boss_50
+  - first:
+      213: 8564384833061496853
+    second: Level2Boss_51
+  - first:
+      213: 8462999836515709715
+    second: Level2Boss_52
+  - first:
+      213: 4671731010403488416
+    second: Level2Boss_53
+  - first:
+      213: 5416403084544287154
+    second: Level2Boss_54
+  - first:
+      213: 6053364142259027079
+    second: Level2Boss_55
+  - first:
+      213: 1732628292920616898
+    second: Level2Boss_56
+  - first:
+      213: 3499930098111917609
+    second: Level2Boss_57
+  - first:
+      213: 1900532313587448282
+    second: Level2Boss_58
+  - first:
+      213: -2586725788514024261
+    second: Level2Boss_59
+  - first:
+      213: -8117436184909387387
+    second: Level2Boss_60
+  - first:
+      213: -2179732037653196440
+    second: Level2Boss_61
+  - first:
+      213: -2053872001470533908
+    second: Level2Boss_62
+  - first:
+      213: -3035703289305351136
+    second: Level2Boss_63
+  - first:
+      213: -2872007487994279198
+    second: Level2Boss_64
+  - first:
+      213: 3161102590832235016
+    second: Level2Boss_65
+  - first:
+      213: -9050879642426815071
+    second: Level2Boss_66
+  - first:
+      213: -7861509384479452003
+    second: Level2Boss_67
+  - first:
+      213: -8047736106498089188
+    second: Level2Boss_68
+  - first:
+      213: -2435297464788415701
+    second: Level2Boss_69
+  - first:
+      213: 7500368242874206526
+    second: Level2Boss_70
+  - first:
+      213: -26811647652221921
+    second: Level2Boss_71
+  - first:
+      213: 1534194283356634786
+    second: Level2Boss_72
+  - first:
+      213: 1182944477668009864
+    second: Level2Boss_73
+  - first:
+      213: 958960155539040709
+    second: Level2Boss_74
+  - first:
+      213: 336304947685364787
+    second: Level2Boss_75
+  - first:
+      213: -3852634838022637262
+    second: Level2Boss_76
+  - first:
+      213: 122903477332809768
+    second: Level2Boss_77
+  - first:
+      213: -6618913358432565550
+    second: Level2Boss_78
+  - first:
+      213: 2111270839600295920
+    second: Level2Boss_79
+  - first:
+      213: -8020835917086703155
+    second: Level2Boss_80
+  - first:
+      213: -6340018282210497082
+    second: Level2Boss_81
+  - first:
+      213: -4016933857480916935
+    second: Level2Boss_82
+  - first:
+      213: 5388183982952726490
+    second: Level2Boss_83
+  - first:
+      213: -409367118080527436
+    second: Level2Boss_84
+  - first:
+      213: -6907242730846760501
+    second: Level2Boss_85
+  - first:
+      213: 5210581372851749838
+    second: Level2Boss_86
+  - first:
+      213: -4238151279122887229
+    second: Level2Boss_87
+  - first:
+      213: 8543109520808740491
+    second: Level2Boss_88
+  - first:
+      213: 7102573137027096045
+    second: Level2Boss_89
+  - first:
+      213: 6179154814183272653
+    second: Level2Boss_90
+  - first:
+      213: 7545850501154758422
+    second: Level2Boss_91
+  - first:
+      213: 6052540491393206445
+    second: Level2Boss_92
+  - first:
+      213: -5814996165118191278
+    second: Level2Boss_93
+  - first:
+      213: 4488056112097977095
+    second: Level2Boss_94
+  - first:
+      213: 5714232004470740342
+    second: Level2Boss_95
+  - first:
+      213: 7952081029088248077
+    second: Level2Boss_96
+  - first:
+      213: -1845157826515382366
+    second: Level2Boss_97
+  - first:
+      213: -6505445940881486822
+    second: Level2Boss_98
+  - first:
+      213: 1763128525783895997
+    second: Level2Boss_99
+  - first:
+      213: 4297691643559686328
+    second: Level2Boss_100
+  - first:
+      213: -9128379670147703943
+    second: Level2Boss_101
+  - first:
+      213: 7837047471000651838
+    second: Level2Boss_102
+  - first:
+      213: 2264152948049961446
+    second: Level2Boss_103
+  - first:
+      213: -486451935473813997
+    second: Level2Boss_104
+  - first:
+      213: 7807630878932745298
+    second: Level2Boss_105
+  - first:
+      213: 978844664880793995
+    second: Level2Boss_106
+  - first:
+      213: -6354141757106414284
+    second: Level2Boss_107
+  - first:
+      213: -8593065100418292966
+    second: Level2Boss_108
+  - first:
+      213: 2791966642971891511
+    second: Level2Boss_109
+  - first:
+      213: -873640067987544496
+    second: Level2Boss_110
+  - first:
+      213: 344930459873498266
+    second: Level2Boss_111
+  - first:
+      213: -4067939262081508032
+    second: Level2Boss_112
+  - first:
+      213: 2191716938350254045
+    second: Level2Boss_113
+  - first:
+      213: -973489069708615050
+    second: Level2Boss_114
+  - first:
+      213: -4715397646736105816
+    second: Level2Boss_115
+  - first:
+      213: 7217758902953344596
+    second: Level2Boss_116
+  - first:
+      213: 6364006530607914575
+    second: Level2Boss_117
+  - first:
+      213: 9195244604408369867
+    second: Level2Boss_118
+  - first:
+      213: 4769291013964736268
+    second: Level2Boss_119
+  - first:
+      213: 3583915630471056342
+    second: Level2Boss_120
+  - first:
+      213: -7333022465715444069
+    second: Level2Boss_121
+  - first:
+      213: -8318932159503263216
+    second: Level2Boss_122
+  - first:
+      213: 4061734586252782768
+    second: Level2Boss_123
+  - first:
+      213: 7437896299083265539
+    second: Level2Boss_124
+  - first:
+      213: -6074466518036549314
+    second: Level2Boss_125
+  - first:
+      213: -6324439491525652282
+    second: Level2Boss_126
+  - first:
+      213: -1964509933540644296
+    second: Level2Boss_127
+  - first:
+      213: 8889960596026832726
+    second: Level2Boss_128
+  - first:
+      213: -1316360283214817049
+    second: Level2Boss_129
+  - first:
+      213: 9092585834206262839
+    second: Level2Boss_130
+  - first:
+      213: -1111022533381083542
+    second: Level2Boss_131
+  - first:
+      213: -8840478330895532828
+    second: Level2Boss_132
+  - first:
+      213: 393819340897700158
+    second: Level2Boss_133
+  - first:
+      213: -7182160494222132583
+    second: Level2Boss_134
+  - first:
+      213: 812339419014725016
+    second: Level2Boss_135
+  - first:
+      213: 6190976703928385543
+    second: Level2Boss_136
+  - first:
+      213: 2524438967414150616
+    second: Level2Boss_137
+  - first:
+      213: -1044764409781426647
+    second: Level2Boss_138
+  - first:
+      213: 113430911710686689
+    second: Level2Boss_139
+  - first:
+      213: 3193046143420955107
+    second: Level2Boss_140
+  - first:
+      213: 2365836276813830265
+    second: Level2Boss_141
+  - first:
+      213: 4639753144132362954
+    second: Level2Boss_142
+  - first:
+      213: 7065616216587424520
+    second: Level2Boss_143
+  - first:
+      213: -8570199913995159363
+    second: Level2Boss_144
+  - first:
+      213: 3891267617599587093
+    second: Level2Boss_145
+  - first:
+      213: 8637668604506499484
+    second: Level2Boss_146
+  - first:
+      213: -7017538426040485680
+    second: Level2Boss_147
+  - first:
+      213: 7428686276900270249
+    second: Level2Boss_148
+  - first:
+      213: 8012102839696782328
+    second: Level2Boss_149
+  - first:
+      213: 3779985766899255240
+    second: Level2Boss_150
+  - first:
+      213: 7448229332179071111
+    second: Level2Boss_151
+  - first:
+      213: -3600304726588448695
+    second: Level2Boss_152
+  - first:
+      213: 3795617334660653794
+    second: Level2Boss_153
+  - first:
+      213: -7069061945285887532
+    second: Level2Boss_154
+  - first:
+      213: 2049217347514520393
+    second: Level2Boss_155
+  - first:
+      213: 4527648952071883064
+    second: Level2Boss_156
+  - first:
+      213: 6781106504267279283
+    second: Level2Boss_157
+  - first:
+      213: 7052160506134957895
+    second: Level2Boss_158
+  - first:
+      213: -8651789742790460875
+    second: Level2Boss_159
+  - first:
+      213: 627034161954186220
+    second: Level2Boss_160
+  - first:
+      213: -5209407397977739323
+    second: Level2Boss_161
+  - first:
+      213: -5101311092850883676
+    second: Level2Boss_162
+  - first:
+      213: -6298013616875591561
+    second: Level2Boss_163
+  - first:
+      213: -5542656769063021100
+    second: Level2Boss_164
+  - first:
+      213: -231115733291679829
+    second: Level2Boss_165
+  - first:
+      213: -5655518932047646540
+    second: Level2Boss_166
+  - first:
+      213: 465100359789448042
+    second: Level2Boss_167
+  - first:
+      213: 2614317302193266211
+    second: Level2Boss_168
+  - first:
+      213: 1503023113109844840
+    second: Level2Boss_169
+  - first:
+      213: -7773060349322504535
+    second: Level2Boss_170
+  - first:
+      213: -6225727929279602491
+    second: Level2Boss_171
+  - first:
+      213: 3808364728741634551
+    second: Level2Boss_172
+  - first:
+      213: 6158802064078459217
+    second: Level2Boss_173
+  - first:
+      213: -7064866900562523843
+    second: Level2Boss_174
+  - first:
+      213: -7548280286132865375
+    second: Level2Boss_175
+  - first:
+      213: -3145095114492395644
+    second: Level2Boss_176
+  - first:
+      213: -7709814734770462942
+    second: Level2Boss_177
+  - first:
+      213: 6547286499408047976
+    second: Level2Boss_178
+  - first:
+      213: 1693800648694868827
+    second: Level2Boss_179
+  - first:
+      213: -6006251086766510368
+    second: Level2Boss_180
+  - first:
+      213: 2501868920286568894
+    second: Level2Boss_181
+  - first:
+      213: -3154121424059891242
+    second: Level2Boss_182
+  - first:
+      213: 4648650231557616927
+    second: Level2Boss_183
+  - first:
+      213: -7793420929645618027
+    second: Level2Boss_184
+  - first:
+      213: -4913483601831046670
+    second: Level2Boss_185
+  - first:
+      213: -4852313536669903754
+    second: Level2Boss_186
+  - first:
+      213: 3033375401616251548
+    second: Level2Boss_187
+  - first:
+      213: -719821775521985196
+    second: Level2Boss_188
+  - first:
+      213: -7670697913715761083
+    second: Level2Boss_189
+  - first:
+      213: 8506546097756396535
+    second: Level2Boss_190
+  - first:
+      213: -1539595171247683247
+    second: Level2Boss_191
+  - first:
+      213: -1819465771694993021
+    second: Level2Boss_192
+  - first:
+      213: 9077539299667376285
+    second: Level2Boss_193
+  - first:
+      213: -9040048247069793529
+    second: Level2Boss_194
+  - first:
+      213: 8167092588977034740
+    second: Level2Boss_195
+  - first:
+      213: 161900939974794149
+    second: Level2Boss_196
+  - first:
+      213: 2380178277737441316
+    second: Level2Boss_197
+  - first:
+      213: -5593017748979957237
+    second: Level2Boss_198
+  - first:
+      213: 8757056801560109629
+    second: Level2Boss_199
+  - first:
+      213: 6223698619226829526
+    second: Level2Boss_200
+  - first:
+      213: -355425563303503129
+    second: Level2Boss_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level2Boss_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2049
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6d3626e987e600800000000000000
+      internalID: 497517905424772178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2049
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41bc448c2d1e4660800000000000000
+      internalID: 7371861717087465804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2049
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edb9cc6957f1be60800000000000000
+      internalID: 7976428378499169762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2049
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394f6d9ac982e840800000000000000
+      internalID: 5251911618785134896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2049
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f32525a6950680800000000000000
+      internalID: -8789453461706770821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2049
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a5ae2cb21718ee0800000000000000
+      internalID: -1260601987919357291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2049
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d40b301553af9080800000000000000
+      internalID: -9178437929817930543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1985
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d01e426254ceca0800000000000000
+      internalID: -5986333774552429249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1985
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a50a0a4869c5f10800000000000000
+      internalID: 2259846609407859219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1985
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d90d12b5625530800000000000000
+      internalID: 3842245247766223012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2087febea8cae0800000000000000
+      internalID: -1528779938272892071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8123e7f8f4fab7420800000000000000
+      internalID: 2628887563745505816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a6682e811b0b6b0800000000000000
+      internalID: -5282527642467800418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ccddfe10ad89c0800000000000000
+      internalID: -3923303645401266913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfed0afcd2461d60800000000000000
+      internalID: 7860543716477235132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1921
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77d619ce37ad1fb0800000000000000
+      internalID: -4675396950037178501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1921
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e333732d18ffd00800000000000000
+      internalID: 1008667581423500878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1921
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71265d03b2fb7d8d0800000000000000
+      internalID: -2821576449300536809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1921
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f5821519835ac0800000000000000
+      internalID: -3867596931383037559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1921
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1506aded8216fb0800000000000000
+      internalID: -4656395602112785962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1921
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96e2f0b64586340800000000000000
+      internalID: 4857225016912013786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1857
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f851a53ebecfb1e50800000000000000
+      internalID: 6781291753998259599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_22
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1857
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18c64fb898b90f0800000000000000
+      internalID: -1109141649022483995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_23
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1857
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33310d8c5f32132a0800000000000000
+      internalID: -6759582027163364557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1857
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fbb35b85f592270800000000000000
+      internalID: 8226211028971274037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1857
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23870df476770cb40800000000000000
+      internalID: 5458494033977440306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1857
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503cb8fe58ad8690800000000000000
+      internalID: -7598231870450683812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1857
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f547de07c21f5430800000000000000
+      internalID: 3773755658916546039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1792
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559bbcc32497ce630800000000000000
+      internalID: 3957671497946610005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1791
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f29964a7bbd3770800000000000000
+      internalID: 8592229797937622928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e20b59fd10bda460800000000000000
+      internalID: 7254648217547768550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1791
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43062c8e648709a70800000000000000
+      internalID: 8831691115221639220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1791
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ce780f643cadc80800000000000000
+      internalID: -8297104654026150809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1791
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866a3c5c5fa004f0800000000000000
+      internalID: -864498317235951999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1791
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f8496aa58707fc0800000000000000
+      internalID: -3499164579729731684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1791
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb8c3135bc9a660800000000000000
+      internalID: 7397667420607397418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1729
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b5421d4989f7650800000000000000
+      internalID: 6232868174235458394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22c2deaa1613120800000000000000
+      internalID: 2391800263861871356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03dc6825d4c830d0800000000000000
+      internalID: -3442785495339445493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1729
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281c2454dc745d60800000000000000
+      internalID: 7878058899564927013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3750edd7f06653d00800000000000000
+      internalID: 951779112980972915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64da0866dbc8fa50800000000000000
+      internalID: 6555213379366737003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e6a4fdcf94bd630800000000000000
+      internalID: 3952834448374525446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1729
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af5085fbd54d9150800000000000000
+      internalID: 5880933499434721191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0f02817cdcadc0800000000000000
+      internalID: -3626281219868652360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1665
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc060cefa5f8e3c0800000000000000
+      internalID: -4329940905788830532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1666
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b0a1686525d1ae0800000000000000
+      internalID: -1577013762939286703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649bd6b6647e53b0800000000000000
+      internalID: -5521848108606319513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1666
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b1e7ff1e7e58af0800000000000000
+      internalID: -394654434484937904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1666
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887439afab0828e0800000000000000
+      internalID: -1718110408755873652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1666
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263686b52ca064160800000000000000
+      internalID: 7009301699922256738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518af5e21aecad670800000000000000
+      internalID: 8564384833061496853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1601
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31335bd238d927570800000000000000
+      internalID: 8462999836515709715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_53
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1601
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d6412a9255d040800000000000000
+      internalID: 4671731010403488416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1601
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a79678edea2b40800000000000000
+      internalID: 5416403084544287154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_55
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1601
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cbf638d9ed10450800000000000000
+      internalID: 6053364142259027079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1601
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72357a0488b0810800000000000000
+      internalID: 1732628292920616898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1601
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea8ac71ef329030800000000000000
+      internalID: 3499930098111917609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1601
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9f78bd11c006a10800000000000000
+      internalID: 1900532313587448282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1601
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb48744b99a1a1cd0800000000000000
+      internalID: -2586725788514024261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1537
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589e29f3cc2195f80800000000000000
+      internalID: -8117436184909387387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1537
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861942ea24900c1e0800000000000000
+      internalID: -2179732037653196440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_62
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1536
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6a3aeb4e2f73e0800000000000000
+      internalID: -2053872001470533908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1535
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c387531f30fd5d0800000000000000
+      internalID: -3035703289305351136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1536
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac6ddf7649428d0800000000000000
+      internalID: -2872007487994279198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1537
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025f11ee0e7edb20800000000000000
+      internalID: 3161102590832235016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1536
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc5583be0d46280800000000000000
+      internalID: -9050879642426815071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1535
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94d3bbedde46e290800000000000000
+      internalID: -7861509384479452003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1536
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f981e56a2b05090800000000000000
+      internalID: -8047736106498089188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1473
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b80e8cbd5143ed0800000000000000
+      internalID: -2435297464788415701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1473
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e394321ad29a61860800000000000000
+      internalID: 7500368242874206526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1474
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca8d1d2feb0aff0800000000000000
+      internalID: -26811647652221921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1474
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae38eb729d8a4510800000000000000
+      internalID: 1534194283356634786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1473
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88769642cb9aa6010800000000000000
+      internalID: 1182944477668009864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1473
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c968a04e29ee4d00800000000000000
+      internalID: 958960155539040709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1473
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3341efe619bcaa400800000000000000
+      internalID: 336304947685364787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_76
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1473
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239bd56e601b88ac0800000000000000
+      internalID: -3852634838022637262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1473
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828151cbf04a4b100800000000000000
+      internalID: 122903477332809768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1409
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d60a877e55e424a0800000000000000
+      internalID: -6618913358432565550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1409
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff240384adbc4d10800000000000000
+      internalID: 2111270839600295920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1408
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc14a58ca3440b090800000000000000
+      internalID: -8020835917086703155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1407
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6c5396fab308a0800000000000000
+      internalID: -6340018282210497082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1408
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9304c9270fbf048c0800000000000000
+      internalID: -4016933857480916935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1409
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfb850e8cca6ca40800000000000000
+      internalID: 5388183982952726490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1408
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b51866c2a15af0800000000000000
+      internalID: -409367118080527436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1408
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1da7a155b8420a0800000000000000
+      internalID: -6907242730846760501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1408
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3881ad624bf4840800000000000000
+      internalID: 5210581372851749838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1345
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd4387cddf0f25c0800000000000000
+      internalID: -4238151279122887229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1345
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86001988d83f8670800000000000000
+      internalID: 8543109520808740491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1346
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded5bb713a8619260800000000000000
+      internalID: 7102573137027096045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_90
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1346
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0f98f9094c0c550800000000000000
+      internalID: 6179154814183272653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_91
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1345
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f58891d0f38b860800000000000000
+      internalID: 7545850501154758422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_92
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1345
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8092a5281fef350800000000000000
+      internalID: 6052540491393206445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_93
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1345
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2591fd70ccbfc4fa0800000000000000
+      internalID: -5814996165118191278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_94
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1345
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703ee955147c84e30800000000000000
+      internalID: 4488056112097977095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_95
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1345
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67595a69bb70d4f40800000000000000
+      internalID: 5714232004470740342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1281
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018de360977b5e60800000000000000
+      internalID: 7952081029088248077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1281
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afc40c9bbea466e0800000000000000
+      internalID: -1845157826515382366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c8044526308b5a0800000000000000
+      internalID: -6505445940881486822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1281
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf05b08d04e77810800000000000000
+      internalID: 1763128525783895997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_100
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1281
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03a8897c774ab30800000000000000
+      internalID: 4297691643559686328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_101
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1281
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd2f1ed0b715180800000000000000
+      internalID: -9128379670147703943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1216
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e380ed40729c2cc60800000000000000
+      internalID: 7837047471000651838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1216
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1eba93c13eb6f10800000000000000
+      internalID: 2264152948049961446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31638c1ca86cf39f0800000000000000
+      internalID: -486451935473813997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3824fae64a5c60800000000000000
+      internalID: 7807630878932745298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_106
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1216
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89818c590e859d00800000000000000
+      internalID: 978844664880793995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1233dcbd81d7a0800000000000000
+      internalID: -6354141757106414284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e2c5b1dc4fb880800000000000000
+      internalID: -8593065100418292966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1152
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737541b8ede0fb620800000000000000
+      internalID: 2791966642971891511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ed06acf430e3f0800000000000000
+      internalID: -873640067987544496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1152
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94d8fcfc6079c400800000000000000
+      internalID: 344930459873498266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1152
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d54c34bc6cb87c0800000000000000
+      internalID: -4067939262081508032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1152
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d29671fa8a6e10800000000000000
+      internalID: 2191716938350254045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1089
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672ea4f49d87d72f0800000000000000
+      internalID: -973489069708615050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_115
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1089
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aed493d2da8f8eb0800000000000000
+      internalID: -4715397646736105816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_116
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1089
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e72fc1b71aa2460800000000000000
+      internalID: 7217758902953344596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1089
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e962db83e715850800000000000000
+      internalID: 6364006530607914575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_118
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1089
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2969ccf321c9f70800000000000000
+      internalID: 9195244604408369867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1089
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a4dd88ecef2240800000000000000
+      internalID: 4769291013964736268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1025
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db823b0740acb130800000000000000
+      internalID: 3583915630471056342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1024
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9662116beedb3a90800000000000000
+      internalID: -7333022465715444069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1023
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1c3ac6473d8c80800000000000000
+      internalID: -8318932159503263216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce381161e2e5830800000000000000
+      internalID: 4061734586252782768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306fc0fb647b83760800000000000000
+      internalID: 7437896299083265539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e317d60c2e823bba0800000000000000
+      internalID: -6074466518036549314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c059207ac31b38a0800000000000000
+      internalID: -6324439491525652282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6595bf98acb4e0800000000000000
+      internalID: -1964509933540644296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1023
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573661af0c7f5b70800000000000000
+      internalID: 8889960596026832726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85c8afb495bbde0800000000000000
+      internalID: -1316360283214817049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1023
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736fc9144aa5f2e70800000000000000
+      internalID: 9092585834206262839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1023
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ead5074ead490f0800000000000000
+      internalID: -1111022533381083542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1023
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecfe620ccf405580800000000000000
+      internalID: -8840478330895532828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 961
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c2ef9a90277500800000000000000
+      internalID: 393819340897700158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99abb0e4517d35c90800000000000000
+      internalID: -7182160494222132583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_135
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 961
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d7b6bc562064b00800000000000000
+      internalID: 812339419014725016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_136
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 961
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700ce52d284cae550800000000000000
+      internalID: 6190976703928385543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 961
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5dfd5addb980320800000000000000
+      internalID: 2524438967414150616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_138
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 961
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e1010e404081f0800000000000000
+      internalID: -1044764409781426647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_139
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 961
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed601f20dcf29100800000000000000
+      internalID: 113430911710686689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_140
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 961
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9790acc8aff4c20800000000000000
+      internalID: 3193046143420955107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 961
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978983c1f8325d020800000000000000
+      internalID: 2365836276813830265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_142
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 961
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2e281f6e6b36040800000000000000
+      internalID: 4639753144132362954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_143
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 961
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803dee4838c1e0260800000000000000
+      internalID: 7065616216587424520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_144
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 961
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db83c38c598801980800000000000000
+      internalID: -8570199913995159363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5130109084f800630800000000000000
+      internalID: 3891267617599587093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 897
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99672bd4d92fd770800000000000000
+      internalID: 8637668604506499484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f3366bf1bc9e90800000000000000
+      internalID: -7017538426040485680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b57a5fcef71760800000000000000
+      internalID: 7428686276900270249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 897
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f376003515b03f60800000000000000
+      internalID: 8012102839696782328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 897
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7001c1705357430800000000000000
+      internalID: 3779985766899255240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 897
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780bd2e7d1d6d5760800000000000000
+      internalID: 7448229332179071111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 897
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94029882de5290ec0800000000000000
+      internalID: -3600304726588448695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 897
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e263c71bddbca430800000000000000
+      internalID: 3795617334660653794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 897
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b0004d95a5ed90800000000000000
+      internalID: -7069061945285887532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 897
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943db220258407c10800000000000000
+      internalID: 2049217347514520393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 897
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8390aefbbb075de30800000000000000
+      internalID: 4527648952071883064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 897
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb21f210745b1e50800000000000000
+      internalID: 6781106504267279283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 897
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f863bcd9e4ed160800000000000000
+      internalID: 7052160506134957895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 833
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a3b9d611baee780800000000000000
+      internalID: -8651789742790460875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 833
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce360558f3ca3b800800000000000000
+      internalID: 627034161954186220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_161
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 833
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfae39729774b7b0800000000000000
+      internalID: -5209407397977739323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_162
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 833
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a30dd5c6908439b0800000000000000
+      internalID: -5101311092850883676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_163
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 833
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ae87dbf5f898a0800000000000000
+      internalID: -6298013616875591561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_164
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 833
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59518e8078413b0800000000000000
+      internalID: -5542656769063021100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_165
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 833
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf352f0779eaccf0800000000000000
+      internalID: -231115733291679829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_166
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 833
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0bdcade7f8381b0800000000000000
+      internalID: -5655518932047646540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0822205e547600800000000000000
+      internalID: 465100359789448042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_168
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 833
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e136f2cbbe74420800000000000000
+      internalID: 2614317302193266211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_169
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 833
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8633d1ade8fcbd410800000000000000
+      internalID: 1503023113109844840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_170
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 833
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a655f4bbca802490800000000000000
+      internalID: -7773060349322504535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_171
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 833
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0af030f65c999a0800000000000000
+      internalID: -6225727929279602491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a5cf0b870ad430800000000000000
+      internalID: 3808364728741634551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_173
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 769
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d657b8d5787550800000000000000
+      internalID: 6158802064078459217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394e863cfc84fd90800000000000000
+      internalID: -7064866900562523843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 769
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a677ff721f1f3790800000000000000
+      internalID: -7548280286132865375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 768
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f3dd328a06a54d0800000000000000
+      internalID: -3145095114492395644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_177
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 767
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1fe9d85c310590800000000000000
+      internalID: -7709814734770462942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 641
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f6de7d162acda50800000000000000
+      internalID: 6547286499408047976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_179
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba8c147b6918710800000000000000
+      internalID: 1693800648694868827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_180
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 641
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee6a75857285aca0800000000000000
+      internalID: -6006251086766510368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_181
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 641
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1654c078c68b220800000000000000
+      internalID: 2501868920286568894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_182
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 641
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1067ca64f4a34d0800000000000000
+      internalID: -3154121424059891242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_183
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 641
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15770981c2538040800000000000000
+      internalID: 4648650231557616927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 449
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cd06fa4f438d390800000000000000
+      internalID: -7793420929645618027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_185
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 449
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1572762bccfcbb0800000000000000
+      internalID: -4913483601831046670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 449
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67498fb0c8e19acb0800000000000000
+      internalID: -4852313536669903754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_187
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 449
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a9eb33bd6b81a20800000000000000
+      internalID: 3033375401616251548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_188
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 449
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dcb60b8eda206f0800000000000000
+      internalID: -719821775521985196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_189
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 449
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54064a973e43c8590800000000000000
+      internalID: -7670697913715761083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_190
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 257
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb51463b925d0670800000000000000
+      internalID: 8506546097756396535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_191
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 257
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15900ef495242aae0800000000000000
+      internalID: -1539595171247683247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_192
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 257
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38153254585ffb6e0800000000000000
+      internalID: -1819465771694993021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_193
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 257
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98725fe5e5e9fd70800000000000000
+      internalID: 9077539299667376285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_194
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 249
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7032309f30c4b8280800000000000000
+      internalID: -9040048247069793529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_195
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 257
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f593b54077575170800000000000000
+      internalID: 8167092588977034740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_196
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abdfff0c003f3200800000000000000
+      internalID: 161900939974794149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_197
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42824aa6887180120800000000000000
+      internalID: 2380178277737441316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_198
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0248998dfb9162b0800000000000000
+      internalID: -5593017748979957237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_199
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 64
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32a8ee93c0578970800000000000000
+      internalID: 8757056801560109629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_200
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 64
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ba1c6be40f5650800000000000000
+      internalID: 6223698619226829526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level2Boss_201
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 64
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea93335556411bf0800000000000000
+      internalID: -355425563303503129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

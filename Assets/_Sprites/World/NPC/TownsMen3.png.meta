@@ -1,0 +1,5144 @@
+fileFormatVersion: 2
+guid: 44fead6da75967a4784722094ff9c2f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7311343707972155308
+    second: TownsMen3_0
+  - first:
+      213: -5957549190849209683
+    second: TownsMen3_1
+  - first:
+      213: 1005695943344032772
+    second: TownsMen3_2
+  - first:
+      213: 8585458316137420396
+    second: TownsMen3_3
+  - first:
+      213: 8300529082159306891
+    second: TownsMen3_4
+  - first:
+      213: 8065157407310044072
+    second: TownsMen3_5
+  - first:
+      213: -6966648219108750908
+    second: TownsMen3_6
+  - first:
+      213: -5250645951829849044
+    second: TownsMen3_7
+  - first:
+      213: -743364412277314215
+    second: TownsMen3_8
+  - first:
+      213: 9099342601848543215
+    second: TownsMen3_9
+  - first:
+      213: -4944226814518304229
+    second: TownsMen3_10
+  - first:
+      213: -6129887057966840378
+    second: TownsMen3_11
+  - first:
+      213: 2109115018168826564
+    second: TownsMen3_12
+  - first:
+      213: 4248170009300262456
+    second: TownsMen3_13
+  - first:
+      213: -4966331620170719908
+    second: TownsMen3_14
+  - first:
+      213: 1729686177322241029
+    second: TownsMen3_15
+  - first:
+      213: -2795924170834067137
+    second: TownsMen3_16
+  - first:
+      213: 1856575734559658928
+    second: TownsMen3_17
+  - first:
+      213: 8385929820417666015
+    second: TownsMen3_18
+  - first:
+      213: 4035764405069087900
+    second: TownsMen3_19
+  - first:
+      213: 7361371761319632177
+    second: TownsMen3_20
+  - first:
+      213: -5270391292164151764
+    second: TownsMen3_21
+  - first:
+      213: -8052055790199295499
+    second: TownsMen3_22
+  - first:
+      213: -2680437186905097176
+    second: TownsMen3_23
+  - first:
+      213: -6356623382490039982
+    second: TownsMen3_24
+  - first:
+      213: 7996623076815461616
+    second: TownsMen3_25
+  - first:
+      213: -8570408353693121642
+    second: TownsMen3_26
+  - first:
+      213: -5855209058578700157
+    second: TownsMen3_27
+  - first:
+      213: 4750081120748536726
+    second: TownsMen3_28
+  - first:
+      213: 6456327961867506111
+    second: TownsMen3_29
+  - first:
+      213: 4613635517470860820
+    second: TownsMen3_30
+  - first:
+      213: -4665403320868114358
+    second: TownsMen3_31
+  - first:
+      213: -161284111813640532
+    second: TownsMen3_32
+  - first:
+      213: 4728568880786253406
+    second: TownsMen3_33
+  - first:
+      213: 3558718697321629784
+    second: TownsMen3_34
+  - first:
+      213: 1333089669322189048
+    second: TownsMen3_35
+  - first:
+      213: 1387727292230847764
+    second: TownsMen3_36
+  - first:
+      213: -1605181733760619082
+    second: TownsMen3_37
+  - first:
+      213: 3374200250071413108
+    second: TownsMen3_38
+  - first:
+      213: -8846898470255624405
+    second: TownsMen3_39
+  - first:
+      213: -6760345171114578094
+    second: TownsMen3_40
+  - first:
+      213: -5517805175469115012
+    second: TownsMen3_41
+  - first:
+      213: -610023553889295407
+    second: TownsMen3_42
+  - first:
+      213: -8870508249070913189
+    second: TownsMen3_43
+  - first:
+      213: 2197671752645730766
+    second: TownsMen3_44
+  - first:
+      213: -4489766201167117012
+    second: TownsMen3_45
+  - first:
+      213: 6743757228008879503
+    second: TownsMen3_46
+  - first:
+      213: 1517940642552375717
+    second: TownsMen3_47
+  - first:
+      213: 4756058859388533869
+    second: TownsMen3_48
+  - first:
+      213: 8392088747773121035
+    second: TownsMen3_49
+  - first:
+      213: 4817040070291508320
+    second: TownsMen3_50
+  - first:
+      213: 331343115483105304
+    second: TownsMen3_51
+  - first:
+      213: 1118800415452894092
+    second: TownsMen3_52
+  - first:
+      213: 2953335438773251740
+    second: TownsMen3_53
+  - first:
+      213: 598908048286489237
+    second: TownsMen3_54
+  - first:
+      213: -7548614489598752310
+    second: TownsMen3_55
+  - first:
+      213: -434543106092296707
+    second: TownsMen3_56
+  - first:
+      213: -6057957965538707948
+    second: TownsMen3_57
+  - first:
+      213: -7191163925132023894
+    second: TownsMen3_58
+  - first:
+      213: 282043818862704093
+    second: TownsMen3_59
+  - first:
+      213: 9153281459772013784
+    second: TownsMen3_60
+  - first:
+      213: -5021996714218798017
+    second: TownsMen3_61
+  - first:
+      213: -8307461268501857711
+    second: TownsMen3_62
+  - first:
+      213: -3804010632058397582
+    second: TownsMen3_63
+  - first:
+      213: 3215549676615388591
+    second: TownsMen3_64
+  - first:
+      213: 903197502859228931
+    second: TownsMen3_65
+  - first:
+      213: 1938393462314182146
+    second: TownsMen3_66
+  - first:
+      213: -3846206724017484030
+    second: TownsMen3_67
+  - first:
+      213: 7327125249861203173
+    second: TownsMen3_68
+  - first:
+      213: -5368481547509793165
+    second: TownsMen3_69
+  - first:
+      213: 4256027830076919714
+    second: TownsMen3_70
+  - first:
+      213: 8765934612552056805
+    second: TownsMen3_71
+  - first:
+      213: 5774843050600574369
+    second: TownsMen3_72
+  - first:
+      213: -7132536929599634460
+    second: TownsMen3_73
+  - first:
+      213: -5526350459482222922
+    second: TownsMen3_74
+  - first:
+      213: -3765380402085796549
+    second: TownsMen3_75
+  - first:
+      213: -338713112336963076
+    second: TownsMen3_76
+  - first:
+      213: -2529737062329710015
+    second: TownsMen3_77
+  - first:
+      213: -6603943272054095247
+    second: TownsMen3_78
+  - first:
+      213: 617403292377278158
+    second: TownsMen3_79
+  - first:
+      213: -6422404251398802284
+    second: TownsMen3_80
+  - first:
+      213: 8545712380744207877
+    second: TownsMen3_81
+  - first:
+      213: -6498238344626309724
+    second: TownsMen3_82
+  - first:
+      213: 5468628482283733871
+    second: TownsMen3_83
+  - first:
+      213: 8081350041136683991
+    second: TownsMen3_84
+  - first:
+      213: -1117515246482509850
+    second: TownsMen3_85
+  - first:
+      213: 1265824244995303823
+    second: TownsMen3_86
+  - first:
+      213: 8042057676272706701
+    second: TownsMen3_87
+  - first:
+      213: -5914335442936577440
+    second: TownsMen3_88
+  - first:
+      213: 6364780363253472691
+    second: TownsMen3_89
+  - first:
+      213: -6439991740054123143
+    second: TownsMen3_90
+  - first:
+      213: 374432777112490152
+    second: TownsMen3_91
+  - first:
+      213: -2798020102750847789
+    second: TownsMen3_92
+  - first:
+      213: -463502238919567696
+    second: TownsMen3_93
+  - first:
+      213: -1827065187159355480
+    second: TownsMen3_94
+  - first:
+      213: -1697147321534174207
+    second: TownsMen3_95
+  - first:
+      213: -7131317714941100991
+    second: TownsMen3_96
+  - first:
+      213: 5753913919965461
+    second: TownsMen3_97
+  - first:
+      213: 6759358800220546739
+    second: TownsMen3_98
+  - first:
+      213: -7842805711529284395
+    second: TownsMen3_99
+  - first:
+      213: -2880394464613787484
+    second: TownsMen3_100
+  - first:
+      213: -6034847669603845734
+    second: TownsMen3_101
+  - first:
+      213: 1558557859763682165
+    second: TownsMen3_102
+  - first:
+      213: 469780563820724772
+    second: TownsMen3_103
+  - first:
+      213: -8196030241077111491
+    second: TownsMen3_104
+  - first:
+      213: -6605676358596131609
+    second: TownsMen3_105
+  - first:
+      213: -7848544268272646594
+    second: TownsMen3_106
+  - first:
+      213: 1227042172528574868
+    second: TownsMen3_107
+  - first:
+      213: 7833782713895072803
+    second: TownsMen3_108
+  - first:
+      213: 6250639572880336342
+    second: TownsMen3_109
+  - first:
+      213: 2321078392224235997
+    second: TownsMen3_110
+  - first:
+      213: -2704379871707774494
+    second: TownsMen3_111
+  - first:
+      213: -8330465400105855967
+    second: TownsMen3_112
+  - first:
+      213: 7958132019549910701
+    second: TownsMen3_113
+  - first:
+      213: 9195437146795717571
+    second: TownsMen3_114
+  - first:
+      213: -7513126850440501593
+    second: TownsMen3_115
+  - first:
+      213: 5514205561165530095
+    second: TownsMen3_116
+  - first:
+      213: 4955678699031263892
+    second: TownsMen3_117
+  - first:
+      213: 2166781418977642522
+    second: TownsMen3_118
+  - first:
+      213: -8226255149691719800
+    second: TownsMen3_119
+  - first:
+      213: -177576145177885374
+    second: TownsMen3_120
+  - first:
+      213: -6673746052397678069
+    second: TownsMen3_121
+  - first:
+      213: 7067491511609798341
+    second: TownsMen3_122
+  - first:
+      213: -4982825528717017417
+    second: TownsMen3_123
+  - first:
+      213: 4866724308557766963
+    second: TownsMen3_124
+  - first:
+      213: -8527267319946578857
+    second: TownsMen3_125
+  - first:
+      213: -3558514808780326201
+    second: TownsMen3_126
+  - first:
+      213: 7906369604949073658
+    second: TownsMen3_127
+  - first:
+      213: 1455684225381834701
+    second: TownsMen3_128
+  - first:
+      213: 4222099341914911956
+    second: TownsMen3_129
+  - first:
+      213: -5306549158037898151
+    second: TownsMen3_130
+  - first:
+      213: -8844223087274129008
+    second: TownsMen3_131
+  - first:
+      213: -7860269096570730220
+    second: TownsMen3_132
+  - first:
+      213: 401045787119669559
+    second: TownsMen3_133
+  - first:
+      213: -5214216151248405945
+    second: TownsMen3_134
+  - first:
+      213: -2402661087009567358
+    second: TownsMen3_135
+  - first:
+      213: 2842749597173248179
+    second: TownsMen3_136
+  - first:
+      213: 4330095401773676038
+    second: TownsMen3_137
+  - first:
+      213: 8066058783901410910
+    second: TownsMen3_138
+  - first:
+      213: -5451137352672451731
+    second: TownsMen3_139
+  - first:
+      213: -9183915318038373267
+    second: TownsMen3_140
+  - first:
+      213: -5088018149743285115
+    second: TownsMen3_141
+  - first:
+      213: -5501791342015860937
+    second: TownsMen3_142
+  - first:
+      213: 6401244287630730635
+    second: TownsMen3_143
+  - first:
+      213: -3365081850313481911
+    second: TownsMen3_144
+  - first:
+      213: -6255608117692763157
+    second: TownsMen3_145
+  - first:
+      213: 9127258874988936398
+    second: TownsMen3_146
+  - first:
+      213: -3761449001380066482
+    second: TownsMen3_147
+  - first:
+      213: 5969706184890784384
+    second: TownsMen3_148
+  - first:
+      213: -4136912255390164333
+    second: TownsMen3_149
+  - first:
+      213: -5972791551771953107
+    second: TownsMen3_150
+  - first:
+      213: 2603225215906810121
+    second: TownsMen3_151
+  - first:
+      213: 7167109660483468362
+    second: TownsMen3_152
+  - first:
+      213: 4523974642948249645
+    second: TownsMen3_153
+  - first:
+      213: -5367084011850384498
+    second: TownsMen3_154
+  - first:
+      213: 4368286974822493600
+    second: TownsMen3_155
+  - first:
+      213: -4306163327554306846
+    second: TownsMen3_156
+  - first:
+      213: -2644435432443663435
+    second: TownsMen3_157
+  - first:
+      213: -7655297427272005983
+    second: TownsMen3_158
+  - first:
+      213: 114560809358921701
+    second: TownsMen3_159
+  - first:
+      213: -1663554564255016122
+    second: TownsMen3_160
+  - first:
+      213: 1521666736531121075
+    second: TownsMen3_161
+  - first:
+      213: -8536137489313176741
+    second: TownsMen3_162
+  - first:
+      213: 1080862135650023007
+    second: TownsMen3_163
+  - first:
+      213: 5097643715649158108
+    second: TownsMen3_164
+  - first:
+      213: 5136954556672422371
+    second: TownsMen3_165
+  - first:
+      213: 4695434337395619708
+    second: TownsMen3_166
+  - first:
+      213: 871205424302622291
+    second: TownsMen3_167
+  - first:
+      213: 8526215943197666582
+    second: TownsMen3_168
+  - first:
+      213: 4710700038935808175
+    second: TownsMen3_169
+  - first:
+      213: 7136889286820606563
+    second: TownsMen3_170
+  - first:
+      213: -650577742930514200
+    second: TownsMen3_171
+  - first:
+      213: 1331749517026685976
+    second: TownsMen3_172
+  - first:
+      213: -5434109404649093407
+    second: TownsMen3_173
+  - first:
+      213: -8363887325506959187
+    second: TownsMen3_174
+  - first:
+      213: 4410569649211140665
+    second: TownsMen3_175
+  - first:
+      213: -7571740721743537168
+    second: TownsMen3_176
+  - first:
+      213: 8178214320170857408
+    second: TownsMen3_177
+  - first:
+      213: 7303239454705722443
+    second: TownsMen3_178
+  - first:
+      213: -339448621864094098
+    second: TownsMen3_179
+  - first:
+      213: -1301800330456712256
+    second: TownsMen3_180
+  - first:
+      213: 4593453949433307416
+    second: TownsMen3_181
+  - first:
+      213: -4870367818432427508
+    second: TownsMen3_182
+  - first:
+      213: -6466978574004534725
+    second: TownsMen3_183
+  - first:
+      213: -7826598284439908489
+    second: TownsMen3_184
+  - first:
+      213: -7006316949477188437
+    second: TownsMen3_185
+  - first:
+      213: 4293045498428347102
+    second: TownsMen3_186
+  - first:
+      213: -6315329471244133813
+    second: TownsMen3_187
+  - first:
+      213: 1671337059669751080
+    second: TownsMen3_188
+  - first:
+      213: 7310402732521170030
+    second: TownsMen3_189
+  - first:
+      213: -2535947516005688173
+    second: TownsMen3_190
+  - first:
+      213: 4676260399407919582
+    second: TownsMen3_191
+  - first:
+      213: 814596955581231269
+    second: TownsMen3_192
+  - first:
+      213: 2242721565457730724
+    second: TownsMen3_193
+  - first:
+      213: -8195004564576770049
+    second: TownsMen3_194
+  - first:
+      213: -5562718102739399723
+    second: TownsMen3_195
+  - first:
+      213: 2733234778853074978
+    second: TownsMen3_196
+  - first:
+      213: -6143648746640627217
+    second: TownsMen3_197
+  - first:
+      213: -1031897028301178870
+    second: TownsMen3_198
+  - first:
+      213: -5266624674487741635
+    second: TownsMen3_199
+  - first:
+      213: -8265691028272137552
+    second: TownsMen3_200
+  - first:
+      213: 3698873733596359300
+    second: TownsMen3_201
+  - first:
+      213: 7590688156510564108
+    second: TownsMen3_202
+  - first:
+      213: 1293078764444682437
+    second: TownsMen3_203
+  - first:
+      213: 5183681999590775441
+    second: TownsMen3_204
+  - first:
+      213: 1398920789530451539
+    second: TownsMen3_205
+  - first:
+      213: -1468421113884682214
+    second: TownsMen3_206
+  - first:
+      213: 7527221951576247550
+    second: TownsMen3_207
+  - first:
+      213: -504332009574648708
+    second: TownsMen3_208
+  - first:
+      213: 8322874240179152793
+    second: TownsMen3_209
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TownsMen3_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2049
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458488f72a3e88a90800000000000000
+      internalID: -7311343707972155308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa548b4398825da0800000000000000
+      internalID: -5957549190849209683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c821fc123f4fd00800000000000000
+      internalID: 1005695943344032772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665b4fc9dca52770800000000000000
+      internalID: 8585458316137420396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8897edd837613370800000000000000
+      internalID: 8300529082159306891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab53505ee13def60800000000000000
+      internalID: 8065157407310044072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94ae80b5e715f90800000000000000
+      internalID: -6966648219108750908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1985
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cc6df6355f127b0800000000000000
+      internalID: -5250645951829849044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1985
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d2b8b610a0fa5f0800000000000000
+      internalID: -743364412277314215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1985
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7d2c0d2eb574e70800000000000000
+      internalID: 9099342601848543215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1985
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12eca768e3926bb0800000000000000
+      internalID: -4944226814518304229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54f94c2344eeaa0800000000000000
+      internalID: -6129887057966840378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caf4683fe4154d10800000000000000
+      internalID: 2109115018168826564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1985
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e5fcd9d1884fa30800000000000000
+      internalID: 4248170009300262456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d1fe644bb041bb0800000000000000
+      internalID: -4966331620170719908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c023cf964110810800000000000000
+      internalID: 1729686177322241029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31c182b7c1e239d0800000000000000
+      internalID: -2795924170834067137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d9054bc1e3c910800000000000000
+      internalID: 1856575734559658928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba959bdbec06470800000000000000
+      internalID: 8385929820417666015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940f41185ae10830800000000000000
+      internalID: 4035764405069087900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5c0d5d98d82660800000000000000
+      internalID: 7361371761319632177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c266e332b0fcbd6b0800000000000000
+      internalID: -5270391292164151764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f13b81abe9514090800000000000000
+      internalID: -8052055790199295499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c36cf749c2dcad0800000000000000
+      internalID: -2680437186905097176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593db366bcb8c7a0800000000000000
+      internalID: -6356623382490039982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd6480256b9fe60800000000000000
+      internalID: 7996623076815461616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c412a20bcf0980800000000000000
+      internalID: -8570408353693121642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1857
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38864c9226e1ebea0800000000000000
+      internalID: -5855209058578700157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1793
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938180cc9dabe140800000000000000
+      internalID: 4750081120748536726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1791
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1d880031c799950800000000000000
+      internalID: 6456327961867506111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1791
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e9fd1f0de60040800000000000000
+      internalID: 4613635517470860820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1791
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407ab5e568214fb0800000000000000
+      internalID: -4665403320868114358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1791
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caefe6f64f003cdf0800000000000000
+      internalID: -161284111813640532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1791
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e562b3318504f9140800000000000000
+      internalID: 4728568880786253406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1791
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8588561eccb136130800000000000000
+      internalID: 3558718697321629784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1791
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f821b1cdf5108210800000000000000
+      internalID: 1333089669322189048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1729
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc88aae92324310800000000000000
+      internalID: 1387727292230847764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1729
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda04fb7bf39b9e0800000000000000
+      internalID: -1605181733760619082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1729
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4717a8a004193de20800000000000000
+      internalID: 3374200250071413108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1729
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7774d6b0893580800000000000000
+      internalID: -8846898470255624405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f20bc72ed6e22a0800000000000000
+      internalID: -6760345171114578094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f9507d61dc63b0800000000000000
+      internalID: -5517805175469115012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3aecd4fc2c887f0800000000000000
+      internalID: -610023553889295407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1729
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b4f4debf95e480800000000000000
+      internalID: -8870508249070913189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1665
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1eb55b0d2bf7e10800000000000000
+      internalID: 2197671752645730766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1667
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2501e68d6521b1c0800000000000000
+      internalID: -4489766201167117012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1667
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8531fa0873a69d50800000000000000
+      internalID: 6743757228008879503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1667
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a96675d8fec01510800000000000000
+      internalID: 1517940642552375717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1667
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf3bc755ae00240800000000000000
+      internalID: 4756058859388533869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1667
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d19eb040b67470800000000000000
+      internalID: 8392088747773121035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1667
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c4c821c6099d240800000000000000
+      internalID: 4817040070291508320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1667
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8184429deca299400800000000000000
+      internalID: 331343115483105304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1602
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8311a9dc07c68f00800000000000000
+      internalID: 1118800415452894092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1602
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee6a22fea5cf820800000000000000
+      internalID: 2953335438773251740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_54
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1602
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1d3f52bfbf4800800000000000000
+      internalID: 598908048286489237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1602
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98911bd1fed3790800000000000000
+      internalID: -7548614489598752310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1602
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df516c9e85138f9f0800000000000000
+      internalID: -434543106092296707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1602
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41631d7a35fcdeba0800000000000000
+      internalID: -6057957965538707948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_58
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1602
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7e6e0b28ad33c90800000000000000
+      internalID: -7191163925132023894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_59
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1602
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5f762eb550ae300800000000000000
+      internalID: 282043818862704093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1539
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc31e2ddfcf60f70800000000000000
+      internalID: 9153281459772013784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1539
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f344fc998984e4ab0800000000000000
+      internalID: -5021996714218798017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a71a9bdf7f5bc80800000000000000
+      internalID: -8307461268501857711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1537
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c99521c70753bc0800000000000000
+      internalID: -3804010632058397582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad4848e46def9c20800000000000000
+      internalID: 3215549676615388591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1539
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b1ffe75dc88c00800000000000000
+      internalID: 903197502859228931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1538
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2062d2c759e86ea10800000000000000
+      internalID: 1938393462314182146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1537
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0832dc578f9ac0800000000000000
+      internalID: -3846206724017484030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1538
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4b5ce089d2fa560800000000000000
+      internalID: 7327125249861203173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1474
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e7079d9725f75b0800000000000000
+      internalID: -5368481547509793165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1474
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af49e513c2701b30800000000000000
+      internalID: 4256027830076919714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1475
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef7771161bd6a970800000000000000
+      internalID: 8765934612552056805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1475
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad2ea8782d542050800000000000000
+      internalID: 5774843050600574369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1474
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3cbdbc373240d90800000000000000
+      internalID: -7132536929599634460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_74
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1474
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bece3679857e43b0800000000000000
+      internalID: -5526350459482222922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_75
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1474
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356571697eaebbc0800000000000000
+      internalID: -3765380402085796549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1474
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9636a0836ac4bf0800000000000000
+      internalID: -338713112336963076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_77
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1474
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a82b08b8194ecd0800000000000000
+      internalID: -2529737062329710015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1410
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172826055941a54a0800000000000000
+      internalID: -6603943272054095247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1410
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ed45f505719800800000000000000
+      internalID: 617403292377278158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1409
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947a675c590fd6a0800000000000000
+      internalID: -6422404251398802284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1409
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8ae61228789670800000000000000
+      internalID: 8545712380744207877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1409
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5f9ba97ae91d5a0800000000000000
+      internalID: -6498238344626309724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1410
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f630b1f61a874eb40800000000000000
+      internalID: 5468628482283733871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1409
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db5a8bab09b62070800000000000000
+      internalID: 8081350041136683991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1409
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efa35eddc9cd70f0800000000000000
+      internalID: -1117515246482509850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1409
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a507b17c119110800000000000000
+      internalID: 1265824244995303823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_87
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1346
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84207119d02b9f60800000000000000
+      internalID: 8042057676272706701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1346
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0624349004f0ceda0800000000000000
+      internalID: -5914335442936577440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1347
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdda11b40e345850800000000000000
+      internalID: 6364780363253472691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_90
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1347
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dcf9902ad80a6a0800000000000000
+      internalID: -6439991740054123143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_91
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1346
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09d0080a0423500800000000000000
+      internalID: 374432777112490152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_92
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1346
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc32258a8f6b29d0800000000000000
+      internalID: -2798020102750847789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1346
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d9906b2f4199f0800000000000000
+      internalID: -463502238919567696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_94
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1346
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af42e974e5f4a6e0800000000000000
+      internalID: -1827065187159355480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_95
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1346
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c2370c0858278e0800000000000000
+      internalID: -1697147321534174207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3c745258780d90800000000000000
+      internalID: -7131317714941100991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519844b7721741000800000000000000
+      internalID: 5753913919965461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1281
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b66e8424011ecd50800000000000000
+      internalID: 6759358800220546739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc64e122c1c82390800000000000000
+      internalID: -7842805711529284395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1281
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a891b3de78c608d0800000000000000
+      internalID: -2880394464613787484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1281
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a993babb40aef3ca0800000000000000
+      internalID: -6034847669603845734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_102
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1217
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7b19ad1c11a510800000000000000
+      internalID: 1558557859763682165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1217
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422caec0feef48600800000000000000
+      internalID: 469780563820724772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1217
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d355d309be9d14e80800000000000000
+      internalID: -8196030241077111491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1217
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e48ea8a95ce354a0800000000000000
+      internalID: -6605676358596131609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1217
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364ea5429e541390800000000000000
+      internalID: -7848544268272646594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1217
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4914df1da54570110800000000000000
+      internalID: 1227042172528574868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324bf458fdf27bc60800000000000000
+      internalID: 7833782713895072803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52880039bbeb650800000000000000
+      internalID: 6250639572880336342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1153
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14c580080263020800000000000000
+      internalID: 2321078392224235997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1153
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14429c5dc187ad0800000000000000
+      internalID: -2704379871707774494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1153
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241205fadd346c80800000000000000
+      internalID: -8330465400105855967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1153
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da63fe468e6f07e60800000000000000
+      internalID: 7958132019549910701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1089
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3b0319d51cc9f70800000000000000
+      internalID: 9195437146795717571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66b0f8fe20cb790800000000000000
+      internalID: -7513126850440501593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_116
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1089
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe341cb0eb4668c40800000000000000
+      internalID: 5514205561165530095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_117
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1089
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7abc358b16c440800000000000000
+      internalID: 4955678699031263892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_118
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1844107834f11e10800000000000000
+      internalID: 2166781418977642522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_119
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa5e2a68876dd80800000000000000
+      internalID: -8226255149691719800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c612df6f198df0800000000000000
+      internalID: -177576145177885374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02cba903571263a0800000000000000
+      internalID: -6673746052397678069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1023
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce279aa516c41260800000000000000
+      internalID: 7067491511609798341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1023
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef21fe49279dab0800000000000000
+      internalID: -4982825528717017417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331285f39f31a8340800000000000000
+      internalID: 4866724308557766963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75479c94d8f09a980800000000000000
+      internalID: -8527267319946578857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7eae92ad9d9ec0800000000000000
+      internalID: -3558514808780326201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_127
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5fe5144119bd60800000000000000
+      internalID: 7906369604949073658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1023
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf16072711a33410800000000000000
+      internalID: 1455684225381834701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4bf395bf8e79a30800000000000000
+      internalID: 4222099341914911956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_130
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1023
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb004f7a95b56b0800000000000000
+      internalID: -5306549158037898151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_131
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1023
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09987b8f5f1034580800000000000000
+      internalID: -8844223087274129008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_132
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1023
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419cbe3f6e6bae290800000000000000
+      internalID: -7860269096570730220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 961
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7315fefb40dc09500800000000000000
+      internalID: 401045787119669559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 961
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74afbba590263a7b0800000000000000
+      internalID: -5214216151248405945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 961
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0421a87808aed0800000000000000
+      internalID: -2402661087009567358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 961
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b075e472b9737720800000000000000
+      internalID: 2842749597173248179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 961
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b54a73d6971c30800000000000000
+      internalID: 4330095401773676038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 961
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ecd76ab560ff60800000000000000
+      internalID: 8066058783901410910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 961
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d636818857ba954b0800000000000000
+      internalID: -5451137352672451731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_140
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 961
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cdd0d3dad2c8080800000000000000
+      internalID: -9183915318038373267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 961
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cafc5437ab369b0800000000000000
+      internalID: -5088018149743285115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f23d69ce5b5a3b0800000000000000
+      internalID: -5501791342015860937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 961
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856abca3c9c5d850800000000000000
+      internalID: 6401244287630730635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 961
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94163f7d2e3dc41d0800000000000000
+      internalID: -3365081850313481911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_145
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 961
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be37fd28f8d9f29a0800000000000000
+      internalID: -6255608117692763157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 897
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3fb8a6998aae70800000000000000
+      internalID: 9127258874988936398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 898
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b4effef06accbc0800000000000000
+      internalID: -3761449001380066482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 898
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a1ed37528a8d250800000000000000
+      internalID: 5969706184890784384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 897
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a5286d83cb696c0800000000000000
+      internalID: -4136912255390164333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 897
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28bd279ab16c1da0800000000000000
+      internalID: -5972791551771953107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90907789a83802420800000000000000
+      internalID: 2603225215906810121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_152
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c33636340b67360800000000000000
+      internalID: 7167109660483468362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_153
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281ecdf7f268ce30800000000000000
+      internalID: 4523974642948249645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bbaf9f6894485b0800000000000000
+      internalID: -5367084011850384498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_155
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada2430cd54f9c30800000000000000
+      internalID: 4368286974822493600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_156
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecbf44c44f6d34c0800000000000000
+      internalID: -4306163327554306846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb2db92cf31d4bd0800000000000000
+      internalID: -2644435432443663435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_158
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 897
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a68d75ac8be2c590800000000000000
+      internalID: -7655297427272005983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_159
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 833
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef050bf270079100800000000000000
+      internalID: 114560809358921701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_160
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 833
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b991d00fdd9e8e0800000000000000
+      internalID: -1663554564255016122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_161
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 833
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32771b5db0e1510800000000000000
+      internalID: 1521666736531121075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_162
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 833
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53e79b0e2c898980800000000000000
+      internalID: -8536137489313176741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_163
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 833
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56f69eb26efffe00800000000000000
+      internalID: 1080862135650023007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_164
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 833
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb35ce63f77eb640800000000000000
+      internalID: 5097643715649158108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_165
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 833
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1b8c9d3f02a4740800000000000000
+      internalID: 5136954556672422371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_166
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 833
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7733a207a8892140800000000000000
+      internalID: 4695434337395619708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_167
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 833
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35683f1b7b4271c00800000000000000
+      internalID: 871205424302622291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_168
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 833
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da19cf934335670800000000000000
+      internalID: 8526215943197666582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_169
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 833
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa800302ab4cf5140800000000000000
+      internalID: 4710700038935808175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_170
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 833
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362bb365ef25b0360800000000000000
+      internalID: 7136889286820606563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_171
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 833
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eee9dd5dfea8f6f0800000000000000
+      internalID: -650577742930514200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147c2c31235b7210800000000000000
+      internalID: 1331749517026685976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e60841a94a2694b0800000000000000
+      internalID: -5434109404649093407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_174
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 769
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da804cd8ac08deb80800000000000000
+      internalID: -8363887325506959187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 770
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a695e4abd753d30800000000000000
+      internalID: 4410569649211140665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 767
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbdd1d2ee5cbe690800000000000000
+      internalID: -7571740721743537168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3fbca189ade7170800000000000000
+      internalID: 8178214320170857408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_178
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 641
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b442a5ff6915a5560800000000000000
+      internalID: 7303239454705722443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_179
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 639
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e667b42e6490a4bf0800000000000000
+      internalID: -339448621864094098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_180
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 639
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb34a62f731fede0800000000000000
+      internalID: -1301800330456712256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_181
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 639
+        width: 30
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116614a70a3fbf30800000000000000
+      internalID: 4593453949433307416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_182
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 639
+        width: 29
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a47d0064af86cb0800000000000000
+      internalID: -4870367818432427508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_183
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 639
+        width: 29
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32c56e104da046a0800000000000000
+      internalID: -6466978574004534725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_184
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 639
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f0740d356526390800000000000000
+      internalID: -7826598284439908489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_185
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 639
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1d920bdf84ce90800000000000000
+      internalID: -7006316949477188437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_186
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 450
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed25962a226f39b30800000000000000
+      internalID: 4293045498428347102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_187
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 450
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a10f25e417b58a0800000000000000
+      internalID: -6315329471244133813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_188
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 450
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bf8d5338c13710800000000000000
+      internalID: 1671337059669751080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_189
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 450
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6428f49d84c37560800000000000000
+      internalID: 7310402732521170030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_190
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 450
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c52739b218eccd0800000000000000
+      internalID: -2535947516005688173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_191
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 450
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17fefae0a65e040800000000000000
+      internalID: 4676260399407919582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_192
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 450
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b88c7d970e4b00800000000000000
+      internalID: 814596955581231269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_193
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 450
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac473f916fbf1f10800000000000000
+      internalID: 2242721565457730724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_194
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff762bb74ce754e80800000000000000
+      internalID: -8195004564576770049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_195
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 248
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db459cab514dc2b0800000000000000
+      internalID: -5562718102739399723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_196
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 235
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228e741dc866ee520800000000000000
+      internalID: 2733234778853074978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_197
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 232
+        width: 29
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe926bfe3006dbaa0800000000000000
+      internalID: -6143648746640627217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_198
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 225
+        width: 29
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b357be17fda1f0800000000000000
+      internalID: -1031897028301178870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_199
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 216
+        width: 29
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d9d723c039e6b0800000000000000
+      internalID: -5266624674487741635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_200
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 224
+        width: 28
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab4b4adcd5a4d80800000000000000
+      internalID: -8265691028272137552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_201
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 238
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa800301a055330800000000000000
+      internalID: 3698873733596359300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_202
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fa39149aa875960800000000000000
+      internalID: 7590688156510564108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_203
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 65
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c883550940f1f110800000000000000
+      internalID: 1293078764444682437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_204
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 65
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad136705320f740800000000000000
+      internalID: 5183681999590775441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_205
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 65
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e1fd8db07f96310800000000000000
+      internalID: 1398920789530451539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_206
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 65
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185836e6ce1f9be0800000000000000
+      internalID: -1468421113884682214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_207
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 65
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc8939eb70167860800000000000000
+      internalID: 7527221951576247550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_208
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 65
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b17895b04009f0800000000000000
+      internalID: -504332009574648708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TownsMen3_209
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 65
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a024660ac08370800000000000000
+      internalID: 8322874240179152793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
